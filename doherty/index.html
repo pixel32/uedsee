@@ -24,21 +24,23 @@
     var NexT = window.NexT || {};
     var CONFIG = {"hostname":"uedsee.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.2","exturl":true,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":true,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":true,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":true,"nav":null},"motion":{"enable":true,"async":true,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"},"path":"/search.json","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}};
   </script>
-<meta name="description" content="用户体验研究的有效性摘要：设计不佳的定性或定量研究可能会产生无效的结果。避免鼓励某些回应或行为，并确保您的学习条件和参与者具有代表性。 关键词：研究方法，用户测试 任何用户体验研究旨在回答有关设计或用户的问题。我们的用户总数中有多少能够订阅新闻通讯？用户将在网站上遇到哪些可用性问题？对于目标受众，设计A是否比设计B更有用？但是，无论何时我们进行UX研究，无论是定量研究还是定性研究，都有危险，因为该">
+<meta name="description" content="UX设计原则：多赫蒂阈值摘要：当计算机及其用户以一定的交互速度（&lt;400毫秒）进行交互时，用户将不会感觉到延迟。 关键词：多赫蒂阈值，UX设计，原则，用户体验，延迟  起源1982年，Walter J. Doherty和Ahrvind J. Thadani在IBM Systems Journal上发表了一篇研究论文，将计算机响应时间的要求设置为400毫秒，而不是以前的标准2,000（2秒）。">
 <meta property="og:type" content="article">
-<meta property="og:title" content="用户体验研究的有效性">
-<meta property="og:url" content="https://uedsee.com/user-test/index.html">
+<meta property="og:title" content="UX设计原则：多赫蒂阈值">
+<meta property="og:url" content="https://uedsee.com/doherty/index.html">
 <meta property="og:site_name" content="UED观察">
-<meta property="og:description" content="用户体验研究的有效性摘要：设计不佳的定性或定量研究可能会产生无效的结果。避免鼓励某些回应或行为，并确保您的学习条件和参与者具有代表性。 关键词：研究方法，用户测试 任何用户体验研究旨在回答有关设计或用户的问题。我们的用户总数中有多少能够订阅新闻通讯？用户将在网站上遇到哪些可用性问题？对于目标受众，设计A是否比设计B更有用？但是，无论何时我们进行UX研究，无论是定量研究还是定性研究，都有危险，因为该">
+<meta property="og:description" content="UX设计原则：多赫蒂阈值摘要：当计算机及其用户以一定的交互速度（&lt;400毫秒）进行交互时，用户将不会感觉到延迟。 关键词：多赫蒂阈值，UX设计，原则，用户体验，延迟  起源1982年，Walter J. Doherty和Ahrvind J. Thadani在IBM Systems Journal上发表了一篇研究论文，将计算机响应时间的要求设置为400毫秒，而不是以前的标准2,000（2秒）。">
 <meta property="og:locale" content="en_US">
+<meta property="og:image" content="https://uedsee.com/doherty/images/202103272.webp">
 <meta property="article:published_time" content="2021-03-26T22:02:31.000Z">
-<meta property="article:modified_time" content="2021-03-26T14:23:27.740Z">
+<meta property="article:modified_time" content="2021-03-27T02:58:28.975Z">
 <meta property="article:author" content="John Doe">
-<meta property="article:tag" content="用户测试">
+<meta property="article:tag" content="设计原则">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://uedsee.com/doherty/images/202103272.webp">
 
 
-<link rel="canonical" href="https://uedsee.com/user-test/">
+<link rel="canonical" href="https://uedsee.com/doherty/">
 
 
 <script data-pjax class="page-configurations">
@@ -50,7 +52,7 @@
     lang   : 'en'
   };
 </script>
-<title>用户体验研究的有效性 | UED观察</title>
+<title>UX设计原则：多赫蒂阈值 | UED观察</title>
   
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108155018-3"></script>
     <script data-pjax>
@@ -139,7 +141,7 @@
 <nav class="site-nav">
   <ul class="main-menu menu">
         <li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-bell fa-fw"></i>Home</a></li>
-        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives<span class="badge">2</span></a></li>
+        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives<span class="badge">3</span></a></li>
       <li class="menu-item menu-item-search">
         <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>Search
         </a>
@@ -196,35 +198,41 @@
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C%E7%A0%94%E7%A9%B6%E7%9A%84%E6%9C%89%E6%95%88%E6%80%A7"><span class="nav-number">1.</span> <span class="nav-text">用户体验研究的有效性</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%86%85%E9%83%A8%E6%9C%89%E6%95%88%E6%80%A7"><span class="nav-number">2.</span> <span class="nav-text">内部有效性</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%A4%96%E9%83%A8%E6%9C%89%E6%95%88%E6%80%A7"><span class="nav-number">3.</span> <span class="nav-text">外部有效性</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%A4%96%E9%83%A8%E6%9C%89%E6%95%88%E6%80%A7%E6%80%BB%E6%98%AF%E5%8F%AF%E8%83%BD%E7%9A%84%E5%90%97%EF%BC%9F"><span class="nav-number">4.</span> <span class="nav-text">外部有效性总是可能的吗？</span></a></li></ol></div>
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#UX%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%EF%BC%9A%E5%A4%9A%E8%B5%AB%E8%92%82%E9%98%88%E5%80%BC"><span class="nav-number">1.</span> <span class="nav-text">UX设计原则：多赫蒂阈值</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E8%B5%B7%E6%BA%90"><span class="nav-number">2.</span> <span class="nav-text">起源</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%BF%AB%E9%80%9F%E7%9B%B8%E5%BA%94%E7%9A%84%E7%BB%8F%E6%B5%8E%E4%BB%B7%E5%80%BC"><span class="nav-number">3.</span> <span class="nav-text">快速相应的经济价值</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%BA%94%E7%94%A8"><span class="nav-number">4.</span> <span class="nav-text">应用</span></a></li></ol></div>
         </div>
         <!--/noindex-->
 
         <div class="site-overview-wrap sidebar-panel">
           <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
     <img class="site-author-image" itemprop="image" alt="三二"
-      src="/images/logo.svg">
+      src="/images/logo.png">
   <p class="site-author-name" itemprop="name">三二</p>
-  <div class="site-description" itemprop="description">UX设计师，小程序产品经理</div>
+  <div class="site-description" itemprop="description">UX设计师</div>
 </div>
 <div class="site-state-wrap site-overview-item animated">
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">2</span>
+          <span class="site-state-item-count">3</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
       <div class="site-state-item site-state-tags">
-        <span class="site-state-item-count">2</span>
+        <span class="site-state-item-count">1</span>
         <span class="site-state-item-name">tags</span>
       </div>
   </nav>
 </div>
   <div class="links-of-author site-overview-item animated">
       <span class="links-of-author-item">
+        <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3BpeGVsMzIvdWVkc2Vl" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;pixel32&#x2F;uedsee"><i class="fab fa-github fa-fw"></i></span>
+      </span>
+      <span class="links-of-author-item">
         <a href="/atom.xml" title="RSS → &#x2F;atom.xml"><i class="fa fa-rss fa-fw"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <span class="exturl" data-url="bWFpbHRvOjMycGl4ZWxAZ21haWwuY29t" title="E-Mail → mailto:32pixel@gmail.com"><i class="fa fa-envelope fa-fw"></i></span>
       </span>
   </div>
   <div class="cc-license site-overview-item animated" itemprop="license">
@@ -267,12 +275,12 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="en">
-    <link itemprop="mainEntityOfPage" href="https://uedsee.com/user-test/">
+    <link itemprop="mainEntityOfPage" href="https://uedsee.com/doherty/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/logo.svg">
+      <meta itemprop="image" content="/images/logo.png">
       <meta itemprop="name" content="三二">
-      <meta itemprop="description" content="UX设计师，小程序产品经理">
+      <meta itemprop="description" content="UX设计师">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
@@ -280,7 +288,7 @@
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
-          用户体验研究的有效性<span class="exturl post-edit-link" data-url="aHR0cHM6Ly9naXRodWIuY29tL25leHQtdGhlbWUvdGhlbWUtbmV4dC1kb2NzL2VkaXQvbWFzdGVyL3NvdXJjZS9fcG9zdHMvdXNlci10ZXN0Lm1k" title="Edit this post"><i class="fa fa-pen-nib"></i></span>
+          UX设计原则：多赫蒂阈值
         </h1>
 
         <div class="post-meta-container">
@@ -303,8 +311,8 @@
       </span>
       <span class="post-meta-item-text">Disqus: </span>
     
-    <a title="disqus" href="/user-test/#disqus_thread" itemprop="discussionUrl">
-      <span class="post-comments-count disqus-comment-count" data-disqus-identifier="user-test/" itemprop="commentCount"></span>
+    <a title="disqus" href="/doherty/#disqus_thread" itemprop="discussionUrl">
+      <span class="post-comments-count disqus-comment-count" data-disqus-identifier="doherty/" itemprop="commentCount"></span>
     </a>
   </span>
   
@@ -318,31 +326,18 @@
     
     
     <div class="post-body" itemprop="articleBody">
-        <h1 id="用户体验研究的有效性"><a href="#用户体验研究的有效性" class="headerlink" title="用户体验研究的有效性"></a>用户体验研究的有效性</h1><p>摘要：设计不佳的定性或定量研究可能会产生无效的结果。避免鼓励某些回应或行为，并确保您的学习条件和参与者具有代表性。</p>
-<p>关键词：研究方法，用户测试</p>
-<p>任何用户体验研究旨在回答有关设计或用户的问题。我们的用户总数中有多少能够订阅新闻通讯？用户将在网站上遇到哪些可用性问题？对于目标受众，设计A是否比设计B更有用？但是，无论何时我们进行UX研究，无论是定量研究还是定性研究，都有危险，因为该研究设计不当，因此无法反映我们想要捕捉的现实。 </p>
-<p>研究设计错误有两种主要类型：</p>
-<ul>
-<li>内部有效性错误，使参与者偏向某种响应或行为</li>
-<li>外部有效性错误，该错误捕获了我们的目标受众没有的行为或情况</li>
+        <h1 id="UX设计原则：多赫蒂阈值"><a href="#UX设计原则：多赫蒂阈值" class="headerlink" title="UX设计原则：多赫蒂阈值"></a>UX设计原则：多赫蒂阈值</h1><p>摘要：当计算机及其用户以一定的交互速度（&lt;400毫秒）进行交互时，用户将不会感觉到延迟。</p>
+<p>关键词：多赫蒂阈值，UX设计，原则，用户体验，延迟</p>
+<p><img src="images/202103272.webp" alt="image" loading="lazy"></p>
+<h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>1982年，Walter J. Doherty和Ahrvind J. Thadani在IBM Systems Journal上发表了一篇研究论文，将计算机响应时间的要求设置为400毫秒，而不是以前的标准2,000（2秒）。当用户执行命令并在400毫秒内返回答案时，就认为它超过了多赫蒂阈值，并且对此类应用程序的使用被视为能使用户“上瘾”。</p>
+<h1 id="快速相应的经济价值"><a href="#快速相应的经济价值" class="headerlink" title="快速相应的经济价值"></a>快速相应的经济价值</h1><p>对于组织而言，为在线计算提供改善并最终达到亚秒级响应速度的潜在好处包括可<strong>节省大量成本，提高个人生产力，缩短项目进度并提高工作质量</strong>。</p>
+<h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><ul>
+<li>在400毫秒内提供系统反馈，可以吸引用户注意力并提高生产率。</li>
+<li>利用可感知性能来缩短响应时间并减少用户的等待感。</li>
+<li>动画是在后台进行加载或处理时以视觉方式吸引人们的一种方式。</li>
+<li>进度条有助于使用户容忍等待时间，无论其准确性如何。</li>
+<li>有目的地增加流程的延迟实际上可以增加其感知的价值并灌输信任感，即使流程本身实际上花费的时间要少得多。</li>
 </ul>
-<p>我们将分别讨论每个。但是之前，让我们注意有效性和可靠性是分开的。研究的可靠性只是意味着，如果重复研究将获得相同的结果。换句话说，发现不是随机的。有很多统计方法可以计算学习的信度，提高信度的主要方法是测试更多的参与者。但是没有可靠性，就不好了：一项具有高可靠性和低有效性的研究可以使您对错误的事情有一个很好的衡量。</p>
-<h1 id="内部有效性"><a href="#内部有效性" class="headerlink" title="内部有效性"></a>内部有效性</h1><p>比较两个站点（站点A和B）的研究。您试图确定两个站点中哪个更好，先向参与者展示设计A，请他们完成其中的一些任务，然后向他们展示设计B，并进行相同的任务。这项研究能确定哪个设计更好吗？</p>
-<p>不能。此研究偏爱设计B，因为当用户看到设计B时，已经习惯于测试情况和任务。他们还将知道您期望他们做什么以及应该如何执行任务。因此，这项研究缺少内部有效性。（通常的解决方案是替换站点，然后让50%的用户首先尝试站点B。）</p>
-<p>定义：如果一项研究不赞成或鼓励任何特定参与者的反应或行为，则该研究具有内部有效性。</p>
-<p>内部有效性在定性和定量研究中都是一个问题。在进行适度的定性研究后，主持人可能会无意间偏向参与者或引起参与者一定的反应。例如，即使是一个简单的问题，例如“您觉得结帐困难吗？” 可能会因为参与者思考困难而使研究结果无效。</p>
-<p>进行定量研究时，缺乏内部有效性可能会导致结果朝一个方向倾斜，但不能反映实际情况。例如，您可能在基准测试中发现，在网站的重新设计版本上，您的工作时间比在原始版本上要好得多，并且您可以推断出新设计做得很好，而实际上，两者之间的区别是由于不同的研究方案所致-原始测试使用了“思考方式”协议，但重新设计的测试并未使用。（而且大声思考的确会花费一些额外的时间，因此会导致更长的任务时间。）</p>
-<p>在此示例中，协议是一个混杂变量的示例-一个可能影响研究结果的隐藏变量，但是您在设计研究时并未考虑在内。</p>
-<h1 id="外部有效性"><a href="#外部有效性" class="headerlink" title="外部有效性"></a>外部有效性</h1><p>招募目标用户-无论是在受众特征还是用户目标方面。</p>
-<p>通常，研究人员在创建与人口统计信息相匹配的筛选器时非常小心，但这可能不足以确保外部有效性。可能研究参与者处于正确的用户特征中，但目标与产品用户截然不同（或者他们没有足够的动力）。始终努力寻找可能与产品用户具有相同目标的参与者。</p>
-<p>尽您所能，复制参与者将使用其测试UI的自然情况。</p>
-<p>参与者是否应该在车库中使用您的汽车维修应用？然后不要让他们在会议室进行测试。环境，手机的位置，可用的时间，可用的工具-都可能会影响此应用程序的可用性。</p>
-<h1 id="外部有效性总是可能的吗？"><a href="#外部有效性总是可能的吗？" class="headerlink" title="外部有效性总是可能的吗？"></a>外部有效性总是可能的吗？</h1><p>从某种意义上讲，任何研究都将缺乏外部有效性。-因为通常在实验室进行用户测试。（在某种程度上，某些远程研究比面对面的研究更有外部更有效，因为至少远程参与者可能处于真实环境中。）我们还知道参与者的行为方式略有不同，参与者在可用性测试的情况下要比单独进行更合规且更多持久的。</p>
-<p>而且，有时，在真实环境中测试设计可能过于昂贵。例如，我们是纸张原型设计的倡导者，但是这些类型的测试将始终缺乏外部有效性。那么，我们该怎么办？</p>
-<p>在这些情况下，有测试总比没有测试好。使用纸张原型，可能使结果没有外部有效性，以后必须在自然条件下进行重新测试。但是，纸张原型的目标是确定任何重大障碍，避免花钱实施完全没用的东西。因此，请进行论文原型研究，找出大问题，加以解决，然后发展到可以在参与者用来完成任务的设备上在自然条件下进行测试的高保真原型。</p>
-<p>缺乏外部有效性的另一个常见情况是移动测试-大多数参与者不会使用不间断，坐在办公桌前并连接到wifi的移动设计。但是，可以在该设置中进行测试以识别那些即使在连接良好且无中断的最佳情况下也会遇到的问题，这也是可以接受的。这些可能是许多移动站点需要解决的第一个问题-如果即使在理想条件下该站点也存在问题，则需要确定设计。解决这些问题后，您仍然需要在更实际的条件下进行重新测试。</p>
-<p>同样，一些定量研究人士建议只在某些定量研究中包括专家参加者，以减少变异性（变异性的缺乏会降低研究结果的误差范围，并可能使研究人员减少参与人数）。专家级用户将为提供最佳方案，并且只要您不认为结果会推广到所有用户，就可以了。</p>
-<p>通常，如果发现自己不得不牺牲一些外部有效性，那么至关重要的是，始终要根据具体情况来解释研究发现，并意识到如果要在现实的条件下进行这项研究，那么这些发现可能就会不成立。</p>
 
     </div>
 
@@ -352,18 +347,21 @@
 
     <footer class="post-footer">
           <div class="post-tags">
-              <a href="/tags/%E7%94%A8%E6%88%B7%E6%B5%8B%E8%AF%95/" rel="tag"># 用户测试</a>
+              <a href="/tags/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/" rel="tag"># 设计原则</a>
           </div>
 
         
 
           <div class="post-nav">
             <div class="post-nav-item">
-                <a href="/2021-03-26/" rel="prev" title="变革的最后一英里：公司可以从超市中学到什么？">
-                  <i class="fa fa-chevron-left"></i> 变革的最后一英里：公司可以从超市中学到什么？
+                <a href="/aesthetic/" rel="prev" title="UX设计原则：审美可用性效应">
+                  <i class="fa fa-chevron-left"></i> UX设计原则：审美可用性效应
                 </a>
             </div>
             <div class="post-nav-item">
+                <a href="/fitts-low/" rel="next" title="UX设计原则：菲茨定律">
+                  UX设计原则：菲茨定律 <i class="fa fa-chevron-right"></i>
+                </a>
             </div>
           </div>
     </footer>
@@ -410,12 +408,12 @@
 
 
 <div class="copyright">
-  &copy; 2014 – 
+  &copy; 
   <span itemprop="copyrightYear">2021</span>
   <span class="with-love">
     <i class="fa fa-heart"></i>
   </span>
-  <span class="author" itemprop="copyrightHolder">NexT</span>
+  <span class="author" itemprop="copyrightHolder">三二</span>
 </div>
   <div class="powered-by">Powered by <span class="exturl theme-link" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & <span class="exturl theme-link" data-url="aHR0cHM6Ly90aGVtZS1uZXh0LmpzLm9yZw==">NexT.Gemini</span>
   </div><div class="footer-custom">
@@ -507,9 +505,9 @@ if (document.querySelectorAll('.mermaid').length) {
 </script>
 <script>
   var disqus_config = function() {
-    this.page.url = "https://uedsee.com/user-test/";
-    this.page.identifier = "user-test/";
-    this.page.title = "用户体验研究的有效性";
+    this.page.url = "https://uedsee.com/doherty/";
+    this.page.identifier = "doherty/";
+    this.page.title = "UX设计原则：多赫蒂阈值";
     };
   NexT.utils.loadComments('#disqus_thread', () => {
     if (window.DISQUS) {
