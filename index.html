@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
@@ -11,7 +11,6 @@
   <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
   <link rel="mask-icon" href="/images/logo.svg" color="#222">
-  <meta name="google-site-verification" content="5AUIVYTbHIAuz-eQtxSfZbWW5eg9_EVZMSQycIuXrG0">
 
 <link rel="stylesheet" href="/css/main.css">
 
@@ -22,13 +21,13 @@
 
 <script class="hexo-configurations">
     var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"uedsee.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.2","exturl":true,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":true,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":true,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":true,"nav":null},"motion":{"enable":true,"async":true,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"},"path":"/search.json","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}};
+    var CONFIG = {"hostname":"uedsee.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.2","exturl":true,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":true,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":true,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":true,"nav":null},"motion":{"enable":true,"async":true,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.json","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}};
   </script>
 <meta property="og:type" content="website">
 <meta property="og:title" content="UED观察">
 <meta property="og:url" content="https://uedsee.com/index.html">
 <meta property="og:site_name" content="UED观察">
-<meta property="og:locale" content="en_US">
+<meta property="og:locale" content="zh_CN">
 <meta property="article:author" content="John Doe">
 <meta property="article:tag" content="聚焦用户体验设计">
 <meta name="twitter:card" content="summary">
@@ -43,20 +42,11 @@
     sidebar: "",
     isHome : true,
     isPost : false,
-    lang   : 'en'
+    lang   : 'zh-CN'
   };
 </script>
 <title>UED观察 - 聚焦用户体验设计</title>
   
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108155018-3"></script>
-    <script data-pjax>
-      if (CONFIG.hostname === location.hostname) {
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'UA-108155018-3');
-      }
-    </script>
 
 
 
@@ -106,7 +96,7 @@
     <header class="header" itemscope itemtype="http://schema.org/WPHeader">
       <div class="header-inner"><div class="site-brand-container">
   <div class="site-nav-toggle">
-    <div class="toggle" aria-label="Toggle navigation bar" role="button">
+    <div class="toggle" aria-label="切换导航栏" role="button">
         <span class="toggle-line"></span>
         <span class="toggle-line"></span>
         <span class="toggle-line"></span>
@@ -134,10 +124,10 @@
 
 <nav class="site-nav">
   <ul class="main-menu menu">
-        <li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-bell fa-fw"></i>Home</a></li>
-        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives<span class="badge">5</span></a></li>
+        <li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-bell fa-fw"></i>首页</a></li>
+        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档<span class="badge">6</span></a></li>
       <li class="menu-item menu-item-search">
-        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>Search
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
         </a>
       </li>
   </ul>
@@ -152,7 +142,7 @@
   </span>
   <div class="search-input-container">
     <input autocomplete="off" autocapitalize="off" maxlength="80"
-           placeholder="Searching..." spellcheck="false"
+           placeholder="搜索..." spellcheck="false"
            type="search" class="search-input">
   </div>
   <span class="popup-btn-close" role="button">
@@ -182,10 +172,10 @@
     <div class="sidebar-inner sidebar-overview-active">
       <ul class="sidebar-nav">
         <li class="sidebar-nav-toc">
-          Table of Contents
+          文章目录
         </li>
         <li class="sidebar-nav-overview">
-          Overview
+          站点概览
         </li>
       </ul>
 
@@ -207,13 +197,13 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">5</span>
-          <span class="site-state-item-name">posts</span>
+          <span class="site-state-item-count">6</span>
+          <span class="site-state-item-name">日志</span>
         </a>
       </div>
       <div class="site-state-item site-state-tags">
         <span class="site-state-item-count">2</span>
-        <span class="site-state-item-name">tags</span>
+        <span class="site-state-item-name">标签</span>
       </div>
   </nav>
 </div>
@@ -267,6 +257,97 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
+    <link itemprop="mainEntityOfPage" href="https://uedsee.com/hick-low/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/logo.png">
+      <meta itemprop="name" content="三二">
+      <meta itemprop="description" content="主编">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="UED观察">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          <a href="/hick-low/" class="post-title-link" itemprop="url">UX设计原则：希克定律</a>
+        </h2>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2021-04-02 09:44:39" itemprop="dateCreated datePublished" datetime="2021-04-02T09:44:39Z">2021-04-02</time>
+    </span>
+
+  
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="far fa-comment"></i>
+      </span>
+      <span class="post-meta-item-text">评论：</span>
+    
+    <a title="disqus" href="/hick-low/#disqus_thread" itemprop="discussionUrl">
+      <span class="post-comments-count disqus-comment-count" data-disqus-identifier="hick-low/" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+          <h1 id="UX设计原则：希克定律"><a href="#UX设计原则：希克定律" class="headerlink" title="UX设计原则：希克定律"></a>UX设计原则：希克定律</h1><p>摘要：决策所需的时间随着选择的数量和复杂性而增加。</p>
+<p>关键词：UX设计，原则，希克定律</p>
+<p><img src="images/20210402.png" alt="image" loading="lazy"></p>
+<h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>希克定律（或希克-海曼定律）以威廉·埃德蒙·希克和雷·海曼的英国和美国心理学家团队的名字命名。1952年，这对夫妇着手研究刺激次数与个人对任何特定刺激的反应时间之间的关系。</p>
+<p>决策所需的时间随着选择的数量和复杂性而增加。</p>
+<h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><ul>
+<li>用户响应时间与可选项目的数量成正比，请尽量减少选项。</li>
+<li>将复杂任务分解为若干步骤，可以减少用户的认知负担。</li>
+<li>突出显示推荐选项，提高用户决策效率。</li>
+<li>使用渐进式入门以最大程度地减少新用户认知负担。</li>
+<li>注意不要过于简化，太抽象的事物用户无法理解。</li>
+</ul>
+<h1 id="案例"><a href="#案例" class="headerlink" title="案例"></a>案例</h1><p><img src="images/202104022.png" alt="亚马逊的一键式购买" loading="lazy"></p>
+<p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>
+
+      
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+        <div class="post-eof"></div>
+      
+    </footer>
+  </article>
+</div>
+
+
+
+
+    
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
     <link itemprop="mainEntityOfPage" href="https://uedsee.com/Goal-Gradient/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -289,9 +370,9 @@
       <span class="post-meta-item-icon">
         <i class="far fa-calendar"></i>
       </span>
-      <span class="post-meta-item-text">Posted on</span>
+      <span class="post-meta-item-text">发表于</span>
 
-      <time title="Created: 2021-03-31 13:20:39" itemprop="dateCreated datePublished" datetime="2021-03-31T13:20:39Z">2021-03-31</time>
+      <time title="创建时间：2021-03-31 13:20:39" itemprop="dateCreated datePublished" datetime="2021-03-31T13:20:39Z">2021-03-31</time>
     </span>
 
   
@@ -301,7 +382,7 @@
       <span class="post-meta-item-icon">
         <i class="far fa-comment"></i>
       </span>
-      <span class="post-meta-item-text">Disqus: </span>
+      <span class="post-meta-item-text">评论：</span>
     
     <a title="disqus" href="/Goal-Gradient/#disqus_thread" itemprop="discussionUrl">
       <span class="post-comments-count disqus-comment-count" data-disqus-identifier="Goal-Gradient/" itemprop="commentCount"></span>
@@ -378,9 +459,9 @@
       <span class="post-meta-item-icon">
         <i class="far fa-calendar"></i>
       </span>
-      <span class="post-meta-item-text">Posted on</span>
+      <span class="post-meta-item-text">发表于</span>
 
-      <time title="Created: 2021-03-29 10:52:39" itemprop="dateCreated datePublished" datetime="2021-03-29T10:52:39Z">2021-03-29</time>
+      <time title="创建时间：2021-03-29 10:52:39" itemprop="dateCreated datePublished" datetime="2021-03-29T10:52:39Z">2021-03-29</time>
     </span>
 
   
@@ -390,7 +471,7 @@
       <span class="post-meta-item-icon">
         <i class="far fa-comment"></i>
       </span>
-      <span class="post-meta-item-text">Disqus: </span>
+      <span class="post-meta-item-text">评论：</span>
     
     <a title="disqus" href="/ux-graphic-design/#disqus_thread" itemprop="discussionUrl">
       <span class="post-comments-count disqus-comment-count" data-disqus-identifier="ux-graphic-design/" itemprop="commentCount"></span>
@@ -486,9 +567,9 @@
       <span class="post-meta-item-icon">
         <i class="far fa-calendar"></i>
       </span>
-      <span class="post-meta-item-text">Posted on</span>
+      <span class="post-meta-item-text">发表于</span>
 
-      <time title="Created: 2021-03-27 10:26:39" itemprop="dateCreated datePublished" datetime="2021-03-27T10:26:39Z">2021-03-27</time>
+      <time title="创建时间：2021-03-27 10:26:39" itemprop="dateCreated datePublished" datetime="2021-03-27T10:26:39Z">2021-03-27</time>
     </span>
 
   
@@ -498,7 +579,7 @@
       <span class="post-meta-item-icon">
         <i class="far fa-comment"></i>
       </span>
-      <span class="post-meta-item-text">Disqus: </span>
+      <span class="post-meta-item-text">评论：</span>
     
     <a title="disqus" href="/fitts-low/#disqus_thread" itemprop="discussionUrl">
       <span class="post-comments-count disqus-comment-count" data-disqus-identifier="fitts-low/" itemprop="commentCount"></span>
@@ -545,98 +626,8 @@
 
 
 
-    
-
-
-<div class="post-block">
-  
-  
-
-  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://uedsee.com/doherty/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/logo.png">
-      <meta itemprop="name" content="三二">
-      <meta itemprop="description" content="主编">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="UED观察">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          <a href="/doherty/" class="post-title-link" itemprop="url">UX设计原则：多赫蒂阈值</a>
-        </h2>
-
-        <div class="post-meta-container">
-          <div class="post-meta">
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar"></i>
-      </span>
-      <span class="post-meta-item-text">Posted on</span>
-
-      <time title="Created: 2021-03-26 22:02:31" itemprop="dateCreated datePublished" datetime="2021-03-26T22:02:31Z">2021-03-26</time>
-    </span>
-
-  
-  
-  <span class="post-meta-item">
-    
-      <span class="post-meta-item-icon">
-        <i class="far fa-comment"></i>
-      </span>
-      <span class="post-meta-item-text">Disqus: </span>
-    
-    <a title="disqus" href="/doherty/#disqus_thread" itemprop="discussionUrl">
-      <span class="post-comments-count disqus-comment-count" data-disqus-identifier="doherty/" itemprop="commentCount"></span>
-    </a>
-  </span>
-  
-  
-</div>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-          <h1 id="UX设计原则：多赫蒂阈值"><a href="#UX设计原则：多赫蒂阈值" class="headerlink" title="UX设计原则：多赫蒂阈值"></a>UX设计原则：多赫蒂阈值</h1><p>摘要：当计算机及其用户以一定的交互速度（&lt;400毫秒）进行交互时，用户将不会感觉到延迟。</p>
-<p>关键词：多赫蒂阈值，UX设计，原则，用户体验，延迟</p>
-<p><img src="images/202103272.webp" alt="image" loading="lazy"></p>
-<h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>1982年，Walter J. Doherty和Ahrvind J. Thadani在IBM Systems Journal上发表了一篇研究论文，将计算机响应时间的要求设置为400毫秒，而不是以前的标准2,000（2秒）。当用户执行命令并在400毫秒内返回答案时，就认为它超过了多赫蒂阈值，并且对此类应用程序的使用被视为能使用户“上瘾”。</p>
-<h1 id="快速相应的经济价值"><a href="#快速相应的经济价值" class="headerlink" title="快速相应的经济价值"></a>快速相应的经济价值</h1><p>对于组织而言，为在线计算提供改善并最终达到亚秒级响应速度的潜在好处包括可<strong>节省大量成本，提高个人生产力，缩短项目进度并提高工作质量</strong>。</p>
-<h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><ul>
-<li>在400毫秒内提供系统反馈，可以吸引用户注意力并提高生产率。</li>
-<li>利用可感知性能来缩短响应时间并减少用户的等待感。</li>
-<li>动画是在后台进行加载或处理时以视觉方式吸引人们的一种方式。</li>
-<li>进度条有助于使用户容忍等待时间，无论其准确性如何。</li>
-<li>有目的地增加流程的延迟实际上可以增加其感知的价值并灌输信任感，即使流程本身实际上花费的时间要少得多。</li>
-</ul>
-<p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>
-
-      
-    </div>
-
-    
-    
-    
-
-    <footer class="post-footer">
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-</div>
-
-
-
-
   <nav class="pagination">
-    <span class="page-number current">1</span><a class="page-number" href="/page/2/">2</a><a class="extend next" rel="next" href="/page/2/"><i class="fa fa-angle-right" aria-label="Next page"></i></a>
+    <span class="page-number current">1</span><a class="page-number" href="/page/2/">2</a><a class="extend next" rel="next" href="/page/2/"><i class="fa fa-angle-right" aria-label="下一页"></i></a>
   </nav>
 
 
@@ -676,7 +667,7 @@
   </span>
   <span class="author" itemprop="copyrightHolder">三二</span>
 </div>
-  <div class="powered-by">Powered by <span class="exturl theme-link" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & <span class="exturl theme-link" data-url="aHR0cHM6Ly90aGVtZS1uZXh0LmpzLm9yZw==">NexT.Gemini</span>
+  <div class="powered-by">由 <span class="exturl theme-link" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & <span class="exturl theme-link" data-url="aHR0cHM6Ly90aGVtZS1uZXh0LmpzLm9yZw==">NexT.Gemini</span> 强力驱动
   </div><div class="footer-custom">
 Website source code <span class="exturl theme-link" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG8tbmV4dC9oZXhvLW5leHQuZ2l0aHViLmlv">here</span>
 </div>

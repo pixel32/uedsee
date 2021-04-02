@@ -6,7 +6,7 @@
   <link href="https://uedsee.com/atom.xml" rel="self"/>
   
   <link href="https://uedsee.com/"/>
-  <updated>2021-03-31T05:31:51.224Z</updated>
+  <updated>2021-04-02T05:59:40.873Z</updated>
   <id>https://uedsee.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>UX设计原则：希克定律</title>
+    <link href="https://uedsee.com/hick-low/"/>
+    <id>https://uedsee.com/hick-low/</id>
+    <published>2021-04-02T09:44:39.000Z</published>
+    <updated>2021-04-02T05:59:40.873Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="UX设计原则：希克定律"><a href="#UX设计原则：希克定律" class="headerlink" title="UX设计原则：希克定律"></a>UX设计原则：希克定律</h1><p>摘要：决策所需的时间随着选择的数量和复杂性而增加。</p><p>关键词：UX设计，原则，希克定律</p><p><img src="images/20210402.png" alt="image" loading="lazy"></p><h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>希克定律（或希克-海曼定律）以威廉·埃德蒙·希克和雷·海曼的英国和美国心理学家团队的名字命名。1952年，这对夫妇着手研究刺激次数与个人对任何特定刺激的反应时间之间的关系。</p><p>决策所需的时间随着选择的数量和复杂性而增加。</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><ul><li>用户响应时间与可选项目的数量成正比，请尽量减少选项。</li><li>将复杂任务分解为若干步骤，可以减少用户的认知负担。</li><li>突出显示推荐选项，提高用户决策效率。</li><li>使用渐进式入门以最大程度地减少新用户认知负担。</li><li>注意不要过于简化，太抽象的事物用户无法理解。</li></ul><h1 id="案例"><a href="#案例" class="headerlink" title="案例"></a>案例</h1><p><img src="images/202104022.png" alt="亚马逊的一键式购买" loading="lazy"></p><p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;UX设计原则：希克定律&quot;&gt;&lt;a href=&quot;#UX设计原则：希克定律&quot; class=&quot;headerlink&quot; title=&quot;UX设计原则：希克定律&quot;&gt;&lt;/a&gt;UX设计原则：希克定律&lt;/h1&gt;&lt;p&gt;摘要：决策所需的时间随着选择的数量和复杂性而增加。&lt;/p&gt;
+&lt;p&gt;关</summary>
+      
+    
+    
+    
+    
+    <category term="设计原则" scheme="https://uedsee.com/tags/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/"/>
+    
+  </entry>
   
   <entry>
     <title>UX设计原则：目标梯度效应</title>
