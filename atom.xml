@@ -6,7 +6,7 @@
   <link href="https://uedsee.com/atom.xml" rel="self"/>
   
   <link href="https://uedsee.com/"/>
-  <updated>2021-04-02T05:59:40.873Z</updated>
+  <updated>2021-04-05T00:18:01.577Z</updated>
   <id>https://uedsee.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>UX设计原则：雅各布定律</title>
+    <link href="https://uedsee.com/jakob-low/"/>
+    <id>https://uedsee.com/jakob-low/</id>
+    <published>2021-04-04T10:26:39.000Z</published>
+    <updated>2021-04-05T00:18:01.577Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="UX设计原则：雅各布定律"><a href="#UX设计原则：雅各布定律" class="headerlink" title="UX设计原则：雅各布定律"></a>UX设计原则：雅各布定律</h1><p>摘要：用户将大部分时间都花在其他网站上。这意味着用户希望您的网站以他们已知的所有其他网站相同的方式工作。</p><p>关键词：UX设计，原则，菲茨定律</p><p><img src="images/20210405.webp" alt="image" loading="lazy"></p><h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>雅各布定律：用户将大部分时间都花在其他网站上。这意味着用户希望您的网站以他们已知的所有其他网站相同的方式工作。</p><h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>雅各布定律是由雅各布·尼尔森（Jakob Nielsen）提出的，雅各布·尼尔森是尼尔森·诺曼集团（Nielsen Norman Group）的用户代言人和负责人，他与唐纳德·诺曼（Donald A. Norman）博士（苹果公司前研究副总裁）共同创立。Nielsen博士建立了“UX可用性工程”运动，以快速有效地改进用户界面，并发明了几种可用性方法，包括启发式评估。</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><ul><li>用户会将他们熟悉的产品期望转移到看起来相似的另一种产品上。</li><li>通过利用现有的思维模型，我们可以创建出色的用户体验，使用户可以专注于自己的任务，而不是学习新的模型。</li><li>进行更改时，请授权用户在有限的时间内继续使用熟悉的版本，以最大程度地减少不一致性。</li></ul><p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;UX设计原则：雅各布定律&quot;&gt;&lt;a href=&quot;#UX设计原则：雅各布定律&quot; class=&quot;headerlink&quot; title=&quot;UX设计原则：雅各布定律&quot;&gt;&lt;/a&gt;UX设计原则：雅各布定律&lt;/h1&gt;&lt;p&gt;摘要：用户将大部分时间都花在其他网站上。这意味着用户希望您的</summary>
+      
+    
+    
+    
+    
+    <category term="设计原则" scheme="https://uedsee.com/tags/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/"/>
+    
+  </entry>
   
   <entry>
     <title>UX设计原则：希克定律</title>
