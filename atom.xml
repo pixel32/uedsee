@@ -6,7 +6,7 @@
   <link href="https://uedsee.com/atom.xml" rel="self"/>
   
   <link href="https://uedsee.com/"/>
-  <updated>2021-04-08T06:17:21.878Z</updated>
+  <updated>2021-04-13T07:31:03.362Z</updated>
   <id>https://uedsee.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>UX设计原则：邻近原则</title>
+    <link href="https://uedsee.com/law-of-proximity/"/>
+    <id>https://uedsee.com/law-of-proximity/</id>
+    <published>2021-04-13T19:26:39.000Z</published>
+    <updated>2021-04-13T07:31:03.362Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="UX设计原则：邻近原则"><a href="#UX设计原则：邻近原则" class="headerlink" title="UX设计原则：邻近原则"></a>UX设计原则：邻近原则</h1><p>摘要：彼此靠近或接近的元素往往会组合在一起。</p><p>关键词：UX设计，原则，邻近</p><p><img src="images/20210413.png" alt="空白通过邻近原则将形状分成两个不同的组。即使每个组包括不同的形状，这两个组仍然很清楚。" loading="lazy"></p><h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>邻近原则：彼此靠近或接近的元素往往会组合在一起。</p><h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>分组原理（或格式塔定律）是心理学上的一组原则，由格式塔心理学家首先提出，以解释人类自然将物体视为有组织的模式和物体的原理。</p><p>格式塔心理学家认为，存在这些原理是因为头脑具有一种固有的倾向，可以根据某些规则来感知刺激中的模式。</p><p>这些原则分为五类：接近度，相似度，连续性，封闭性和连通性。</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><ul><li>邻近有助于与附近物体建立关系。</li><li>邻近性可帮助用户更快，更有效地理解和组织信息。</li></ul><p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;UX设计原则：邻近原则&quot;&gt;&lt;a href=&quot;#UX设计原则：邻近原则&quot; class=&quot;headerlink&quot; title=&quot;UX设计原则：邻近原则&quot;&gt;&lt;/a&gt;UX设计原则：邻近原则&lt;/h1&gt;&lt;p&gt;摘要：彼此靠近或接近的元素往往会组合在一起。&lt;/p&gt;
+&lt;p&gt;关键词：</summary>
+      
+    
+    
+    
+    
+    <category term="设计原则" scheme="https://uedsee.com/tags/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/"/>
+    
+  </entry>
   
   <entry>
     <title>用户喜欢变化</title>
@@ -52,6 +75,28 @@
       
       
     <summary type="html">&lt;h1 id=&quot;UX设计原则：雅各布定律&quot;&gt;&lt;a href=&quot;#UX设计原则：雅各布定律&quot; class=&quot;headerlink&quot; title=&quot;UX设计原则：雅各布定律&quot;&gt;&lt;/a&gt;UX设计原则：雅各布定律&lt;/h1&gt;&lt;p&gt;摘要：用户将大部分时间都花在其他网站上。这意味着用户希望您的</summary>
+      
+    
+    
+    
+    
+    <category term="设计原则" scheme="https://uedsee.com/tags/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>UX设计原则：分组定律</title>
+    <link href="https://uedsee.com/law-of-common-region/"/>
+    <id>https://uedsee.com/law-of-common-region/</id>
+    <published>2021-04-04T10:26:39.000Z</published>
+    <updated>2021-04-10T08:08:13.990Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="UX设计原则：分组定律"><a href="#UX设计原则：分组定律" class="headerlink" title="UX设计原则：分组定律"></a>UX设计原则：分组定律</h1><p>摘要：边界内的物品被视为一个群体，并假定具有共同的特征或功能。</p><p>关键词：UX设计，原则，分组定律</p><p><img src="images/20210410.png" alt="在此图形中，三个中间圆周围的边界使它们看起来相关并且属于同一组。" loading="lazy"></p><h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>分组定律：边界内的物品被视为一个群体，并假定具有共同的特征或功能。</p><h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>分组原理（或格式塔定律）是心理学原则，由格式塔心理学家首先提出，以解释人类将物体视为有组织模式和物体的原理。</p><p>格式塔心理学家认为，存在这些原理是因为头脑具有一种固有的倾向，可以根据某些规则来感知刺激中的模式。</p><p>这些原则分为五类：接近度，相似度，连续性，封闭性和连通性。</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><ul><li>在一个元素或一组元素周围添加边框是创建公共区域的简便方法。</li><li>可以通过在一个元素或一组元素后面定义背景来创建公共区域。</li></ul><p><img src="images/202104102.png" alt="Backcountry.com网站上的菜单带边框（左）显示每个类别。但删除边框后，这些分组仍然清晰可见（右），因此可以省略它们留出更多内容的空间。" loading="lazy"></p><p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;UX设计原则：分组定律&quot;&gt;&lt;a href=&quot;#UX设计原则：分组定律&quot; class=&quot;headerlink&quot; title=&quot;UX设计原则：分组定律&quot;&gt;&lt;/a&gt;UX设计原则：分组定律&lt;/h1&gt;&lt;p&gt;摘要：边界内的物品被视为一个群体，并假定具有共同的特征或功能。&lt;/p</summary>
       
     
     
