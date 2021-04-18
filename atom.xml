@@ -39,6 +39,28 @@
   </entry>
   
   <entry>
+    <title>UX设计原则：分组原则</title>
+    <link href="https://uedsee.com/law-of-similarity/"/>
+    <id>https://uedsee.com/law-of-similarity/</id>
+    <published>2021-04-16T22:26:39.000Z</published>
+    <updated>2021-04-18T07:56:18.034Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="UX设计原则：相似原则"><a href="#UX设计原则：相似原则" class="headerlink" title="UX设计原则：相似原则"></a>UX设计原则：相似原则</h1><p>摘要：人们会以最简单的形式感知并解释模糊或复杂的图像，因为这种解释只需要付出最少的认知努力。</p><p>关键词：UX设计，相似原则，心理学</p><p><img src="images/20210418.png" alt="颜色是很强的相似性特征，可以将不同类型的元素组合在一起。在这里，尽管形状是柱状排列，但蓝色仍会产生行的感觉。" loading="lazy"></p><h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>相似原则：人眼往往将设计中的相似元素视为同一分组，即使这些元素是分开的。</p><h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>相似原则（或格式塔定律）是心理学中的一组原则，由格式塔心理学家首先提出，以解释人类自然地将物体视为有组织的模式和物体这一原则。</p><p>格式塔心理学家认为，存在这些原理是因为头脑具有一种固有的倾向，可以根据某些规则来感知刺激中的模式。</p><p>这些原则分为五类：接近度，相似度，连续性，封闭性和连通性。</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><p><img src="images/202004182.png" alt="即使在不同形状的随机图案中使用颜色，颜色也继续充当清晰的相似特征，从而创造出对分组的感知。" loading="lazy"></p><ul><li>视觉上相似的元素将被视为同一分组。</li><li>颜色，形状，大小，方向和移动可以表明元素属于同一组，并且可能具有相同的含义或功能。</li><li>确保链接和导航系统在视觉上与普通文本元素有所区别。</li></ul><p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;UX设计原则：相似原则&quot;&gt;&lt;a href=&quot;#UX设计原则：相似原则&quot; class=&quot;headerlink&quot; title=&quot;UX设计原则：相似原则&quot;&gt;&lt;/a&gt;UX设计原则：相似原则&lt;/h1&gt;&lt;p&gt;摘要：人们会以最简单的形式感知并解释模糊或复杂的图像，因为这种解释只</summary>
+      
+    
+    
+    
+    
+    <category term="设计原则" scheme="https://uedsee.com/tags/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/"/>
+    
+  </entry>
+  
+  <entry>
     <title>UX设计原则：邻近原则</title>
     <link href="https://uedsee.com/law-of-proximity/"/>
     <id>https://uedsee.com/law-of-proximity/</id>
