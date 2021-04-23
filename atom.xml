@@ -6,7 +6,7 @@
   <link href="https://uedsee.com/atom.xml" rel="self"/>
   
   <link href="https://uedsee.com/"/>
-  <updated>2021-04-23T02:52:32.797Z</updated>
+  <updated>2021-04-23T02:54:50.949Z</updated>
   <id>https://uedsee.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://uedsee.com/law-of-uniform-connectedness/"/>
     <id>https://uedsee.com/law-of-uniform-connectedness/</id>
     <published>2021-04-21T22:26:39.000Z</published>
-    <updated>2021-04-23T02:52:32.797Z</updated>
+    <updated>2021-04-23T02:54:50.949Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="UX设计原则：连续性原则"><a href="#UX设计原则：连续性原则" class="headerlink" title="UX设计原则：连续性原则"></a>UX设计原则：连续性原则</h1><p>摘要：与没有连接的元素相比，在视觉上有连接的元素被认为更相关。</p><p>关键词：UX设计，连续性原则，心理学</p><p><img src="20210422.gif" alt="连续性非常简单：在一组元素周围画一个方框，就表明它们是相关的。或者，可以绘制连接线（或箭头或其他有形的连接），以达到相同的效果。例如：" loading="lazy"></p><h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>连续性原则：与没有连接的元素相比，在视觉上有连接的元素被认为更相关。</p><h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>分组原理（或格式塔定律）是心理学上的一组原则，由格式塔心理学家首先提出，以解释人类自然将物体视为有组织的模式和物体这一观点，即众所周知的原理。</p><p>格式塔心理学家认为，存在这些原理是因为头脑具有一种固有的倾向，可以根据某些规则来感知刺激中的模式。这些原则分为五类：接近度，相似度，连续性，封闭性和连通性。</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><ul><li>具有类似性质的分组功能，可以通过颜色，线条，框架或其他形状在视觉上进行连接。</li><li>可以使用从一个元素到下一个元素的有形连接参考（线，箭头等）来创建可视连接。</li><li>使用统一的连接性来显示上下文或强调相似项目之间的关系。</li></ul><p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="UX设计原则：连续性原则"><a href="#UX设计原则：连续性原则" class="headerlink" title="UX设计原则：连续性原则"></a>UX设计原则：连续性原则</h1><p>摘要：与没有连接的元素相比，在视觉上有连接的元素被认为更相关。</p><p>关键词：UX设计，连续性原则，心理学</p><p><img src="images/20210422.gif" alt="连续性非常简单：在一组元素周围画一个方框，就表明它们是相关的。或者，可以绘制连接线（或箭头或其他有形的连接），以达到相同的效果。例如：" loading="lazy"></p><h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>连续性原则：与没有连接的元素相比，在视觉上有连接的元素被认为更相关。</p><h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>分组原理（或格式塔定律）是心理学上的一组原则，由格式塔心理学家首先提出，以解释人类自然将物体视为有组织的模式和物体这一观点，即众所周知的原理。</p><p>格式塔心理学家认为，存在这些原理是因为头脑具有一种固有的倾向，可以根据某些规则来感知刺激中的模式。这些原则分为五类：接近度，相似度，连续性，封闭性和连通性。</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><ul><li>具有类似性质的分组功能，可以通过颜色，线条，框架或其他形状在视觉上进行连接。</li><li>可以使用从一个元素到下一个元素的有形连接参考（线，箭头等）来创建可视连接。</li><li>使用统一的连接性来显示上下文或强调相似项目之间的关系。</li></ul><p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>]]></content>
     
     
       
