@@ -6,7 +6,7 @@
   <link href="https://uedsee.com/atom.xml" rel="self"/>
   
   <link href="https://uedsee.com/"/>
-  <updated>2021-04-16T14:16:42.504Z</updated>
+  <updated>2021-04-23T02:52:32.797Z</updated>
   <id>https://uedsee.com/</id>
   
   <author>
@@ -17,18 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>UX设计原则：简化图形原则</title>
-    <link href="https://uedsee.com/law-of-pr%C3%A4gnanz/"/>
-    <id>https://uedsee.com/law-of-pr%C3%A4gnanz/</id>
-    <published>2021-04-16T22:26:39.000Z</published>
-    <updated>2021-04-16T14:16:42.504Z</updated>
+    <title>UX设计原则：连续性原则</title>
+    <link href="https://uedsee.com/law-of-uniform-connectedness/"/>
+    <id>https://uedsee.com/law-of-uniform-connectedness/</id>
+    <published>2021-04-21T22:26:39.000Z</published>
+    <updated>2021-04-23T02:52:32.797Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="UX设计原则：简化图形"><a href="#UX设计原则：简化图形" class="headerlink" title="UX设计原则：简化图形"></a>UX设计原则：简化图形</h1><p>摘要：人们会以最简单的形式感知并解释模糊或复杂的图像，因为这种解释只需要付出最少的认知努力。</p><p>关键词：UX设计，原则，视觉感知，简化图形</p><p><img src="images/20210416.png" alt="空白通过邻近原则将形状分成两个不同的组。即使每个组包括不同的形状，这两个组仍然很清楚。" loading="lazy"></p><h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>简化图形原则：人们会以最简单的形式感知并解释模糊或复杂的图像，因为这种解释只需要付出最少的认知努力。简单的说，人类大脑会简化复杂的形状为简单的形状。</p><h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>1910年，心理学家马克斯·韦特海默（Max Wertheimer）看到了一系列的信号灯，这些信号灯在平交道口闪烁着，这时他有了一个洞察力。</p><p>这类似于环绕着电影院大门框的灯开和关的方式。对观察者来说，似乎是单个灯光围绕着选框移动，从一个灯泡到另一个灯泡，实际上，是一系列打开和关闭的灯泡，而灯光并不能移动。</p><p>这种观察导致了关于我们在视觉上如何感知物体的一系列描述性原理。这些原则几乎是我们作为设计师以图形方式进行的所有工作的核心。</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><ul><li>人眼喜欢在复杂的形状中找到简单性和有序性，因为它可以防止我们不知所措。</li><li>研究证实，与复杂图形相比，人们在视觉上能够更好地处理和记住简单图形。</li></ul><p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="UX设计原则：连续性原则"><a href="#UX设计原则：连续性原则" class="headerlink" title="UX设计原则：连续性原则"></a>UX设计原则：连续性原则</h1><p>摘要：与没有连接的元素相比，在视觉上有连接的元素被认为更相关。</p><p>关键词：UX设计，连续性原则，心理学</p><p><img src="20210422.gif" alt="连续性非常简单：在一组元素周围画一个方框，就表明它们是相关的。或者，可以绘制连接线（或箭头或其他有形的连接），以达到相同的效果。例如：" loading="lazy"></p><h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>连续性原则：与没有连接的元素相比，在视觉上有连接的元素被认为更相关。</p><h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>分组原理（或格式塔定律）是心理学上的一组原则，由格式塔心理学家首先提出，以解释人类自然将物体视为有组织的模式和物体这一观点，即众所周知的原理。</p><p>格式塔心理学家认为，存在这些原理是因为头脑具有一种固有的倾向，可以根据某些规则来感知刺激中的模式。这些原则分为五类：接近度，相似度，连续性，封闭性和连通性。</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><ul><li>具有类似性质的分组功能，可以通过颜色，线条，框架或其他形状在视觉上进行连接。</li><li>可以使用从一个元素到下一个元素的有形连接参考（线，箭头等）来创建可视连接。</li><li>使用统一的连接性来显示上下文或强调相似项目之间的关系。</li></ul><p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;UX设计原则：简化图形&quot;&gt;&lt;a href=&quot;#UX设计原则：简化图形&quot; class=&quot;headerlink&quot; title=&quot;UX设计原则：简化图形&quot;&gt;&lt;/a&gt;UX设计原则：简化图形&lt;/h1&gt;&lt;p&gt;摘要：人们会以最简单的形式感知并解释模糊或复杂的图像，因为这种解释只</summary>
+    <summary type="html">&lt;h1 id=&quot;UX设计原则：连续性原则&quot;&gt;&lt;a href=&quot;#UX设计原则：连续性原则&quot; class=&quot;headerlink&quot; title=&quot;UX设计原则：连续性原则&quot;&gt;&lt;/a&gt;UX设计原则：连续性原则&lt;/h1&gt;&lt;p&gt;摘要：与没有连接的元素相比，在视觉上有连接的元素被认为更相关</summary>
       
     
     
@@ -42,8 +42,8 @@
     <title>UX设计原则：相似原则</title>
     <link href="https://uedsee.com/law-of-similarity/"/>
     <id>https://uedsee.com/law-of-similarity/</id>
-    <published>2021-04-16T22:26:39.000Z</published>
-    <updated>2021-04-22T00:44:56.627Z</updated>
+    <published>2021-04-18T22:26:39.000Z</published>
+    <updated>2021-04-23T02:52:29.836Z</updated>
     
     <content type="html"><![CDATA[<h1 id="UX设计原则：相似原则"><a href="#UX设计原则：相似原则" class="headerlink" title="UX设计原则：相似原则"></a>UX设计原则：相似原则</h1><p>摘要：人们会以最简单的形式感知并解释模糊或复杂的图像，因为这种解释只需要付出最少的认知努力。</p><p>关键词：UX设计，相似原则，心理学</p><p><img src="images/20210418.png" alt="颜色是很强的相似性特征，可以将不同类型的元素组合在一起。在这里，尽管形状是柱状排列，但蓝色仍会产生行的感觉。" loading="lazy"></p><h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>相似原则：人眼往往将设计中的相似元素视为同一分组，即使这些元素是分开的。</p><h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>相似原则（或格式塔定律）是心理学中的一组原则，由格式塔心理学家首先提出，以解释人类自然地将物体视为有组织的模式和物体这一原则。</p><p>格式塔心理学家认为，存在这些原理是因为头脑具有一种固有的倾向，可以根据某些规则来感知刺激中的模式。</p><p>这些原则分为五类：接近度，相似度，连续性，封闭性和连通性。</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><p><img src="images/202004182.png" alt="即使在不同形状的随机图案中使用颜色，颜色也继续充当清晰的相似特征，从而创造出对分组的感知。" loading="lazy"></p><ul><li>视觉上相似的元素将被视为同一分组。</li><li>颜色，形状，大小，方向和移动可以表明元素属于同一组，并且可能具有相同的含义或功能。</li><li>确保链接和导航系统在视觉上与普通文本元素有所区别。</li></ul><p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>]]></content>
     
@@ -61,18 +61,18 @@
   </entry>
   
   <entry>
-    <title>UX设计原则：连续性原则</title>
-    <link href="https://uedsee.com/law-of-uniform-connectedness/"/>
-    <id>https://uedsee.com/law-of-uniform-connectedness/</id>
+    <title>UX设计原则：简化图形原则</title>
+    <link href="https://uedsee.com/law-of-pr%C3%A4gnanz/"/>
+    <id>https://uedsee.com/law-of-pr%C3%A4gnanz/</id>
     <published>2021-04-16T22:26:39.000Z</published>
-    <updated>2021-04-22T00:52:10.098Z</updated>
+    <updated>2021-04-16T14:16:42.504Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="UX设计原则：连续性原则"><a href="#UX设计原则：连续性原则" class="headerlink" title="UX设计原则：连续性原则"></a>UX设计原则：连续性原则</h1><p>摘要：与没有连接的元素相比，在视觉上有连接的元素被认为更相关。</p><p>关键词：UX设计，连续性原则，心理学</p><p><img src="20210422.gif" alt="连续性非常简单：在一组元素周围画一个方框，就表明它们是相关的。或者，可以绘制连接线（或箭头或其他有形的连接），以达到相同的效果。例如：" loading="lazy"></p><h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>连续性原则：与没有连接的元素相比，在视觉上有连接的元素被认为更相关。</p><h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>分组原理（或格式塔定律）是心理学上的一组原则，由格式塔心理学家首先提出，以解释人类自然将物体视为有组织的模式和物体这一观点，即众所周知的原理。</p><p>格式塔心理学家认为，存在这些原理是因为头脑具有一种固有的倾向，可以根据某些规则来感知刺激中的模式。这些原则分为五类：接近度，相似度，连续性，封闭性和连通性。</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><ul><li>具有类似性质的分组功能，可以通过颜色，线条，框架或其他形状在视觉上进行连接。</li><li>可以使用从一个元素到下一个元素的有形连接参考（线，箭头等）来创建可视连接。</li><li>使用统一的连接性来显示上下文或强调相似项目之间的关系。</li></ul><p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="UX设计原则：简化图形"><a href="#UX设计原则：简化图形" class="headerlink" title="UX设计原则：简化图形"></a>UX设计原则：简化图形</h1><p>摘要：人们会以最简单的形式感知并解释模糊或复杂的图像，因为这种解释只需要付出最少的认知努力。</p><p>关键词：UX设计，原则，视觉感知，简化图形</p><p><img src="images/20210416.png" alt="空白通过邻近原则将形状分成两个不同的组。即使每个组包括不同的形状，这两个组仍然很清楚。" loading="lazy"></p><h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>简化图形原则：人们会以最简单的形式感知并解释模糊或复杂的图像，因为这种解释只需要付出最少的认知努力。简单的说，人类大脑会简化复杂的形状为简单的形状。</p><h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>1910年，心理学家马克斯·韦特海默（Max Wertheimer）看到了一系列的信号灯，这些信号灯在平交道口闪烁着，这时他有了一个洞察力。</p><p>这类似于环绕着电影院大门框的灯开和关的方式。对观察者来说，似乎是单个灯光围绕着选框移动，从一个灯泡到另一个灯泡，实际上，是一系列打开和关闭的灯泡，而灯光并不能移动。</p><p>这种观察导致了关于我们在视觉上如何感知物体的一系列描述性原理。这些原则几乎是我们作为设计师以图形方式进行的所有工作的核心。</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><ul><li>人眼喜欢在复杂的形状中找到简单性和有序性，因为它可以防止我们不知所措。</li><li>研究证实，与复杂图形相比，人们在视觉上能够更好地处理和记住简单图形。</li></ul><p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;UX设计原则：连续性原则&quot;&gt;&lt;a href=&quot;#UX设计原则：连续性原则&quot; class=&quot;headerlink&quot; title=&quot;UX设计原则：连续性原则&quot;&gt;&lt;/a&gt;UX设计原则：连续性原则&lt;/h1&gt;&lt;p&gt;摘要：与没有连接的元素相比，在视觉上有连接的元素被认为更相关</summary>
+    <summary type="html">&lt;h1 id=&quot;UX设计原则：简化图形&quot;&gt;&lt;a href=&quot;#UX设计原则：简化图形&quot; class=&quot;headerlink&quot; title=&quot;UX设计原则：简化图形&quot;&gt;&lt;/a&gt;UX设计原则：简化图形&lt;/h1&gt;&lt;p&gt;摘要：人们会以最简单的形式感知并解释模糊或复杂的图像，因为这种解释只</summary>
       
     
     
