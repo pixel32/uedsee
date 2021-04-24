@@ -6,7 +6,7 @@
   <link href="https://uedsee.com/atom.xml" rel="self"/>
   
   <link href="https://uedsee.com/"/>
-  <updated>2021-04-23T02:54:50.949Z</updated>
+  <updated>2021-04-24T11:26:45.304Z</updated>
   <id>https://uedsee.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>情感响应式网页设计</title>
+    <link href="https://uedsee.com/emotionally-responsive-webdesign/"/>
+    <id>https://uedsee.com/emotionally-responsive-webdesign/</id>
+    <published>2021-04-24T19:17:39.000Z</published>
+    <updated>2021-04-24T11:26:45.304Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="情感响应式网页设计"><a href="#情感响应式网页设计" class="headerlink" title="情感响应式网页设计"></a>情感响应式网页设计</h1><p>摘要：我们已经有了屏幕响应式设计。现在是时候了解下情感响应式设计了。</p><p>关键词：UX设计，网页设计，情感响应</p><p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p><h1 id="为什么要做情感响应式设计？"><a href="#为什么要做情感响应式设计？" class="headerlink" title="为什么要做情感响应式设计？"></a>为什么要做情感响应式设计？</h1><p>研究表明，积极的情绪反应与任务的持久性和完成度相关，而消极的情绪反应与放弃任务相关。</p><p>大脑的僵化倾向以易于关注的方式辨别图形和形状，并决定数组元素如何关联，然后辨别这些关系的含义。</p><p>利用这些固定的感知趋势，设计师可以通过以下方式来引导用户注意力，管理用户的认知负担：促进用户注意力的捕获和维持，创造积极的情绪状态，减少工作记忆的负荷，使用户可以顺利完成任务。</p><p><img src="images/20210424.jpeg" alt="位于大脑颞下皮质的豌豆有一项工作：自动处理面部识别。" loading="lazy"></p><p>研究表明，“高兴”脸部感知会增强信息的印象，增加对信息可信度的判断，增加讨人喜欢的程度。除了所有积极的认知效果之外，这些反应还导致建立积极的情感，同时伴随用户旅程的全过程。</p><p>用户注意力很容易被人物的脸部所吸引，并根据人物眼睛的视线来部署他们的注意力。这就是所谓的<strong>联合注意现象</strong>。</p><p><img src="images/202104242.png" alt="通过图片引导用户视线的示例。" loading="lazy"></p><p>设计师可以将用户注意力吸引到页面上的按钮或页面上任何其他相关信息上，只需要带有看向该方向的面部图像。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;情感响应式网页设计&quot;&gt;&lt;a href=&quot;#情感响应式网页设计&quot; class=&quot;headerlink&quot; title=&quot;情感响应式网页设计&quot;&gt;&lt;/a&gt;情感响应式网页设计&lt;/h1&gt;&lt;p&gt;摘要：我们已经有了屏幕响应式设计。现在是时候了解下情感响应式设计了。&lt;/p&gt;
+&lt;p&gt;</summary>
+      
+    
+    
+    
+    
+    <category term="UX设计" scheme="https://uedsee.com/tags/UX%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
   
   <entry>
     <title>UX设计原则：连续性原则</title>
