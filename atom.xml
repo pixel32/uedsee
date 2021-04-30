@@ -6,7 +6,7 @@
   <link href="https://uedsee.com/atom.xml" rel="self"/>
   
   <link href="https://uedsee.com/"/>
-  <updated>2021-04-28T01:49:24.006Z</updated>
+  <updated>2021-04-30T14:02:48.512Z</updated>
   <id>https://uedsee.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>UX设计原则：奥卡姆剃刀</title>
+    <link href="https://uedsee.com/occams-razor/"/>
+    <id>https://uedsee.com/occams-razor/</id>
+    <published>2021-04-30T21:33:39.000Z</published>
+    <updated>2021-04-30T14:02:48.512Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="UX设计原则：奥卡姆剃刀"><a href="#UX设计原则：奥卡姆剃刀" class="headerlink" title="UX设计原则：奥卡姆剃刀"></a>UX设计原则：奥卡姆剃刀</h1><p>摘要：在同样可预测的竞争性假设中，应选择假设最少的假设。如无必要，勿增实体。</p><p>关键词：UX设计，奥卡姆剃刀，心理学</p><p><img src="images/20210430.jpeg" alt="威廉·奥克汉姆（William of Ockham）" loading="lazy"></p><h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>奥卡姆剃刀：在同样可预测的竞争性假设中，应选择假设最少的假设。如无必要，勿增实体。</p><h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>Occam的剃刀（也是Ockham的剃刀；拉丁语：lex parsimoniae“简约法则”）是一种解决问题的原理，当对问题提出相互竞争的假设答案时，应该选择做出最少假设的方法。这个想法归因于威廉·奥克汉姆（William of Ockham），他是英国方济会修道士，哲学家和神学家。</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><ul><li>降低复杂性的最好方法是避免它。</li><li>分析每个元素并尽可能删除不必要的元素，不会损害整体功能。</li><li>仅当没有其他项目可以删除时才考虑完成。</li></ul><p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;UX设计原则：奥卡姆剃刀&quot;&gt;&lt;a href=&quot;#UX设计原则：奥卡姆剃刀&quot; class=&quot;headerlink&quot; title=&quot;UX设计原则：奥卡姆剃刀&quot;&gt;&lt;/a&gt;UX设计原则：奥卡姆剃刀&lt;/h1&gt;&lt;p&gt;摘要：在同样可预测的竞争性假设中，应选择假设最少的假设。如无</summary>
+      
+    
+    
+    
+    
+    <category term="设计原则" scheme="https://uedsee.com/tags/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/"/>
+    
+  </entry>
   
   <entry>
     <title>全渠道用户体验协作</title>
@@ -51,28 +73,6 @@
       
       
     <summary type="html">&lt;h1 id=&quot;UX设计原则：米勒定律&quot;&gt;&lt;a href=&quot;#UX设计原则：米勒定律&quot; class=&quot;headerlink&quot; title=&quot;UX设计原则：米勒定律&quot;&gt;&lt;/a&gt;UX设计原则：米勒定律&lt;/h1&gt;&lt;p&gt;摘要：人们会以最简单的形式感知并解释模糊或复杂的图像，因为这种解释只</summary>
-      
-    
-    
-    
-    
-    <category term="设计原则" scheme="https://uedsee.com/tags/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>UX设计原则：奥卡姆剃刀</title>
-    <link href="https://uedsee.com/occams-razor/"/>
-    <id>https://uedsee.com/occams-razor/</id>
-    <published>2021-04-26T19:26:39.000Z</published>
-    <updated>2021-04-30T12:03:28.435Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="UX设计原则：奥卡姆剃刀"><a href="#UX设计原则：奥卡姆剃刀" class="headerlink" title="UX设计原则：奥卡姆剃刀"></a>UX设计原则：奥卡姆剃刀</h1><p>摘要：在同样可预测的竞争性假设中，应选择假设最少的假设。如无必要，勿增实体。</p><p>关键词：UX设计，奥卡姆剃刀，心理学</p><p><img src="images/20210430.jpeg" alt="威廉·奥克汉姆（William of Ockham）" loading="lazy"></p><h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>奥卡姆剃刀：在同样可预测的竞争性假设中，应选择假设最少的假设。如无必要，勿增实体。</p><h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>Occam的剃刀（也是Ockham的剃刀；拉丁语：lex parsimoniae“简约法则”）是一种解决问题的原理，当对问题提出相互竞争的假设答案时，应该选择做出最少假设的方法。这个想法归因于威廉·奥克汉姆（William of Ockham），他是英国方济会修道士，哲学家和神学家。</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><ul><li>降低复杂性的最好方法是避免它。</li><li>分析每个元素并尽可能删除不必要的元素，不会损害整体功能。</li><li>仅当没有其他项目可以删除时才考虑完成。</li></ul><p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;UX设计原则：奥卡姆剃刀&quot;&gt;&lt;a href=&quot;#UX设计原则：奥卡姆剃刀&quot; class=&quot;headerlink&quot; title=&quot;UX设计原则：奥卡姆剃刀&quot;&gt;&lt;/a&gt;UX设计原则：奥卡姆剃刀&lt;/h1&gt;&lt;p&gt;摘要：在同样可预测的竞争性假设中，应选择假设最少的假设。如无</summary>
       
     
     
