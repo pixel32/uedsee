@@ -6,7 +6,7 @@
   <link href="https://uedsee.com/atom.xml" rel="self"/>
   
   <link href="https://uedsee.com/"/>
-  <updated>2021-04-30T14:02:48.512Z</updated>
+  <updated>2021-05-08T22:10:03.083Z</updated>
   <id>https://uedsee.com/</id>
   
   <author>
@@ -15,6 +15,50 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>UX设计原则：帕金森定律</title>
+    <link href="https://uedsee.com/parkinsons-law/"/>
+    <id>https://uedsee.com/parkinsons-law/</id>
+    <published>2021-05-09T06:26:39.000Z</published>
+    <updated>2021-05-08T22:10:03.083Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="UX设计原则：帕金森定律"><a href="#UX设计原则：帕金森定律" class="headerlink" title="UX设计原则：帕金森定律"></a>UX设计原则：帕金森定律</h1><p>摘要：任何任务都会膨胀，直到所有可用时间都用完为止。</p><p>关键词：UX设计，帕金森定律，心理学</p><h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>帕金森定律：任何任务都会膨胀，直到所有可用时间都用完为止。</p><h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>西里尔·帕金森（Cyril Parkinson）是英国海军历史学家，他在英国公务员制度中度过了很多时间。作为第二次世界大战中的英国参谋，他观察到由于庞大的官僚机构而造成的许多效率低下。实际上，他指出，即使大英帝国衰落，大英殖民办事处也逐年增加。</p><p>在1955年为《经济学人》撰写的讽刺文章中，他讨论了组织由于自身服务的性质而如何不受控制地增长。每个部门都会给另一个部门增加工作。毕竟，每一个官员都想让下属增加而不是让竞争对手增加。</p><p>他幽默论文的重点如下：</p><p>“工作会自动膨胀，以填补完成工作所需的时间。”</p><p>后来他继续用他的书来推广这个观点，我们今天将其称为帕金森定律。半个多世纪后，他的观察仍然是正确的。</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><p>帕金森定律不仅适用于官僚机构。它适用于几乎所有工作，尽管在时间管理中更为明显。</p><ul><li><p>在截止期到来之前进行工作会使工作效率更高；在那几个小时之内，您完成的工作比平时要多得多。</p></li><li><p>不管有多少空间，你的物品都会找到一种占用空间的方式-你下意识地获得了更多物品，以填满未使用的空间。</p></li><li><p>你把盘子上的所有食物都吃完了。食物的多少以某种方式给你提供大致相同的饱腹感。</p></li></ul><p>解决方案是为生活设定限制和约束。</p><p>“我们应该小心，不要将自己的时间用在仅是美好的事情上，而要花很少的时间去做那些更好或最好的事情。” —达林·奥克斯</p><p>截止日期是时间的约束。你可以在生活其他方面施加约束，以提高效率。有了这样的约束，你就必须从选配项中筛选出基本要素。</p><ul><li><p>花费太多？必须节省50%的开支，你被迫优先考虑真正使自己开心的事情。</p></li><li><p>买太多衣服？确保所有衣服都适合你的衣柜。如果有一个新衣服进来，则必须舍弃另一个。</p></li><li><p>吃得太多？使用较小的容器。当你最终吃了10包迷你薯条而不是家庭装薯条时，您会更加了解自己的进步。</p></li></ul><p>约束迫使我们挑战现状。它使我们重新审视传统的做事方法，并进行改进，以克服出现的挑战。</p><p>最终结果是，与没有约束的情况相比，我们可以做得更好，变得更富裕。</p><p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;UX设计原则：帕金森定律&quot;&gt;&lt;a href=&quot;#UX设计原则：帕金森定律&quot; class=&quot;headerlink&quot; title=&quot;UX设计原则：帕金森定律&quot;&gt;&lt;/a&gt;UX设计原则：帕金森定律&lt;/h1&gt;&lt;p&gt;摘要：任何任务都会膨胀，直到所有可用时间都用完为止。&lt;/p&gt;</summary>
+      
+    
+    
+    
+    
+    <category term="设计原则" scheme="https://uedsee.com/tags/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>UX设计原则：帕累托原理</title>
+    <link href="https://uedsee.com/pareto-principle/"/>
+    <id>https://uedsee.com/pareto-principle/</id>
+    <published>2021-05-02T11:26:39.000Z</published>
+    <updated>2021-05-02T02:42:47.402Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="UX设计原则：帕累托原理"><a href="#UX设计原则：帕累托原理" class="headerlink" title="UX设计原则：帕累托原理"></a>UX设计原则：帕累托原理</h1><p>摘要：帕累托原理指出，在许多事件中，大约80％的影响来自20％的原因。</p><p>关键词：UX设计，帕累托原理，心理学</p><h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>帕累托原理：在许多事件中，大约80％的影响来自20％的原因。</p><h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>帕累托原理的起源可以追溯到经济学家维尔弗雷多·帕累托（Vilfredo Pareto），他注意到意大利80％的土地归20％的人口所有。</p><p>尽管看似模糊，但80/20的思维方式可以提供对畸形系统（包括用户体验策略）的深刻且无穷无尽的分析。</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><ul><li>将大部分精力集中在能为大多数用户带来最大收益的领域上。</li></ul><p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;UX设计原则：帕累托原理&quot;&gt;&lt;a href=&quot;#UX设计原则：帕累托原理&quot; class=&quot;headerlink&quot; title=&quot;UX设计原则：帕累托原理&quot;&gt;&lt;/a&gt;UX设计原则：帕累托原理&lt;/h1&gt;&lt;p&gt;摘要：帕累托原理指出，在许多事件中，大约80％的影响来自20</summary>
+      
+    
+    
+    
+    
+    <category term="设计原则" scheme="https://uedsee.com/tags/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/"/>
+    
+  </entry>
   
   <entry>
     <title>UX设计原则：奥卡姆剃刀</title>
