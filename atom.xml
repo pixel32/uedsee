@@ -6,7 +6,7 @@
   <link href="https://uedsee.com/atom.xml" rel="self"/>
   
   <link href="https://uedsee.com/"/>
-  <updated>2021-05-08T22:10:03.083Z</updated>
+  <updated>2021-05-12T20:07:27.564Z</updated>
   <id>https://uedsee.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>UX设计原则：峰终定律</title>
+    <link href="https://uedsee.com/peak-end-rule/"/>
+    <id>https://uedsee.com/peak-end-rule/</id>
+    <published>2021-05-13T03:26:39.000Z</published>
+    <updated>2021-05-12T20:07:27.564Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="UX设计原则：峰终定律"><a href="#UX设计原则：峰终定律" class="headerlink" title="UX设计原则：峰终定律"></a>UX设计原则：峰终定律</h1><p>摘要：人们判断体验的主要依据是他们在体验的高峰和结束时的感受，而不是体验的每一刻的总和或平均值。</p><p>关键词：UX设计，峰终定律，心理学</p><h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>什么是峰终定律?2002年诺贝尔经济学奖获奖者，心理学家丹尼尔·卡纳曼（Daniel Kahneman）经过深入研究，发现我们对体验的记忆由两个因素决定：高峰（无论是正向的还是负向的）时与结束时的感觉，这就是峰终定律（Peak- End Rule）。</p><h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>Kahneman，Fredrickson，Charles Schreiber和Donald Redelmeier于1993年进行的一项题为“何时更愿意减轻痛苦：增加更好的结局”的研究提供了突破性的证据。</p><p>参与者经历了一次不愉快经历的两个不同版本。第一次试验是让受试者将手浸入14°C水中60秒。第二项试验是让受试者将另一只手浸入14°C水中60秒，然后再将其手浸没30秒，在此期间温度升至15°C。然后向受试者提供重复哪项试验的选择。与时间的单调性定律相反，尽管长时间暴露在不舒适的温度下，受试者还是更愿意重复第二次试验。</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><ul><li>密切注意用户旅程中最激烈的时刻和最后时刻（“结束”）。</li><li>确定您的产品最有帮助，最有价值或最有趣的时刻，并设计出使最终用户满意的产品。</li><li>请记住，人们回忆正面经历比正面经历更生动。</li></ul><p>瑞典宜家家居卖场出口处的1元冰淇淋就是一个很好的峰终定律应用。</p><p>另外宜家家居几乎所有的家具都需要客户自己组装，组装完成的家具就如同客户自己的作品一样，宜家在客户心目中的好感度会大幅度增加。</p><p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;UX设计原则：峰终定律&quot;&gt;&lt;a href=&quot;#UX设计原则：峰终定律&quot; class=&quot;headerlink&quot; title=&quot;UX设计原则：峰终定律&quot;&gt;&lt;/a&gt;UX设计原则：峰终定律&lt;/h1&gt;&lt;p&gt;摘要：人们判断体验的主要依据是他们在体验的高峰和结束时的感受，而不是</summary>
+      
+    
+    
+    
+    
+    <category term="设计原则" scheme="https://uedsee.com/tags/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/"/>
+    
+  </entry>
   
   <entry>
     <title>UX设计原则：帕金森定律</title>
