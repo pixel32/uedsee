@@ -6,7 +6,7 @@
   <link href="https://uedsee.com/atom.xml" rel="self"/>
   
   <link href="https://uedsee.com/"/>
-  <updated>2021-05-12T20:07:27.564Z</updated>
+  <updated>2021-05-19T13:14:53.951Z</updated>
   <id>https://uedsee.com/</id>
   
   <author>
@@ -15,6 +15,50 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>UX设计原则：系列位置效应</title>
+    <link href="https://uedsee.com/serial-position-effect/"/>
+    <id>https://uedsee.com/serial-position-effect/</id>
+    <published>2021-05-19T20:26:39.000Z</published>
+    <updated>2021-05-19T13:14:53.951Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="UX设计原则：系列位置效应"><a href="#UX设计原则：系列位置效应" class="headerlink" title="UX设计原则：系列位置效应"></a>UX设计原则：系列位置效应</h1><p>摘要：用户最容易记住序列中的第一项和最后一项。</p><p>关键词：UX设计，系列位置效应</p><h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>用户最容易记住序列中的第一项和最后一项。</p><p>系列位置效应（英语：serial-position effect）是一种心理学现象，指人们倾向于对首先见到的事物和最后见到的事物有更好的印象。分为首因效应（primacy effect）和近因效应（recency effect）。</p><h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>系列位置效应是Herman Ebbinghaus创造的一个术语，描述了序列中某个项目的位置如何影响记忆准确性。指人们倾向于对首先见到的事物和最后见到的事物有更好的印象。分为首因效应（primacy effect）和近因效应（recency effect）。</p><p>首因效应是对“第一印象”或“先入为主”所产生的心理学现象，指在行为过程中，最先接触的事物会给人留下深刻的感知或认知，影响人对事物的感知和判断。</p><p>近因效应指在行为过程中，对事物的最近一次接触给人留下深刻的感知或认知，能对首因效应所形成的心理作用起到巩固、维持、否定、修改或调整等作用。例如在时间上与下一次购买决策最为接近，因此正或负的近因效应能促进或阻滞购买行为。</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><ul><li>将最不重要的项目放在列表的中间可能会有所帮助，因为这些项目倾向于较少地频繁存储在长期记忆和工作记忆中。</li><li>在诸如导航元素的最左侧和最右侧放置关键按钮可以增强记忆。</li></ul><p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;UX设计原则：系列位置效应&quot;&gt;&lt;a href=&quot;#UX设计原则：系列位置效应&quot; class=&quot;headerlink&quot; title=&quot;UX设计原则：系列位置效应&quot;&gt;&lt;/a&gt;UX设计原则：系列位置效应&lt;/h1&gt;&lt;p&gt;摘要：用户最容易记住序列中的第一项和最后一项。&lt;/p</summary>
+      
+    
+    
+    
+    
+    <category term="设计原则" scheme="https://uedsee.com/tags/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>UX设计原则：波斯特尔定律</title>
+    <link href="https://uedsee.com/postels-law/"/>
+    <id>https://uedsee.com/postels-law/</id>
+    <published>2021-05-15T15:26:39.000Z</published>
+    <updated>2021-05-15T07:14:30.885Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="UX设计原则：波斯特尔定律"><a href="#UX设计原则：波斯特尔定律" class="headerlink" title="UX设计原则：波斯特尔定律"></a>UX设计原则：波斯特尔定律</h1><p>摘要：你接受什么是自由的，而你发送什么是受限制的（保守的）</p><p>关键词：UX设计，波斯特尔定律</p><h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>波斯特尔法则：你接受什么是自由的，而你发送什么是受限制的（保守的）。</p><h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>互联网的先驱乔恩·波斯特尔（Jon Postel）制定了波斯特尔定律（也称为稳健性原则）。</p><p>该法律是互联网的设计指南，特别是关于TCP和网络的法律，并指出“TCP实现应遵循鲁棒性的一般原则：对自己的工作要保守，对他人的接受要自由”。换句话说，向其他计算机（或同一计算机上的其他程序）发送消息的程序应完全符合规范，但接收消息的程序只要含义清楚就应接受不一致的输入。</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><ul><li>对用户可以采取的各种行动或他们可能提供的任何输入抱持灵活态度并容忍他们。</li><li>提供可靠且可访问的界面同时，用户在输入，访问和功能方面进行何种操作都有可能。</li><li>我们对设计的期望和计划越多，设计的弹性就越大。</li><li>接受来自用户的可变输入，翻译该输入以满足系统的要求，定义输入边界，并向用户提供清晰的反馈。</li></ul><p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;UX设计原则：波斯特尔定律&quot;&gt;&lt;a href=&quot;#UX设计原则：波斯特尔定律&quot; class=&quot;headerlink&quot; title=&quot;UX设计原则：波斯特尔定律&quot;&gt;&lt;/a&gt;UX设计原则：波斯特尔定律&lt;/h1&gt;&lt;p&gt;摘要：你接受什么是自由的，而你发送什么是受限制的（保</summary>
+      
+    
+    
+    
+    
+    <category term="设计原则" scheme="https://uedsee.com/tags/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/"/>
+    
+  </entry>
   
   <entry>
     <title>UX设计原则：峰终定律</title>
@@ -410,50 +454,6 @@
       
     <summary type="html">&lt;h1 id=&quot;UX设计原则：菲茨定律&quot;&gt;&lt;a href=&quot;#UX设计原则：菲茨定律&quot; class=&quot;headerlink&quot; title=&quot;UX设计原则：菲茨定律&quot;&gt;&lt;/a&gt;UX设计原则：菲茨定律&lt;/h1&gt;&lt;p&gt;摘要：获取目标的时间取决于目标的距离和大小&lt;/p&gt;
 &lt;p&gt;关键词：U</summary>
-      
-    
-    
-    
-    
-    <category term="设计原则" scheme="https://uedsee.com/tags/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>UX设计原则：多赫蒂阈值</title>
-    <link href="https://uedsee.com/doherty/"/>
-    <id>https://uedsee.com/doherty/</id>
-    <published>2021-03-26T22:02:31.000Z</published>
-    <updated>2021-03-29T02:51:38.634Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="UX设计原则：多赫蒂阈值"><a href="#UX设计原则：多赫蒂阈值" class="headerlink" title="UX设计原则：多赫蒂阈值"></a>UX设计原则：多赫蒂阈值</h1><p>摘要：当计算机及其用户以一定的交互速度（&lt;400毫秒）进行交互时，用户将不会感觉到延迟。</p><p>关键词：多赫蒂阈值，UX设计，原则，用户体验，延迟</p><p><img src="images/202103272.webp" alt="image" loading="lazy"></p><h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>1982年，Walter J. Doherty和Ahrvind J. Thadani在IBM Systems Journal上发表了一篇研究论文，将计算机响应时间的要求设置为400毫秒，而不是以前的标准2,000（2秒）。当用户执行命令并在400毫秒内返回答案时，就认为它超过了多赫蒂阈值，并且对此类应用程序的使用被视为能使用户“上瘾”。</p><h1 id="快速相应的经济价值"><a href="#快速相应的经济价值" class="headerlink" title="快速相应的经济价值"></a>快速相应的经济价值</h1><p>对于组织而言，为在线计算提供改善并最终达到亚秒级响应速度的潜在好处包括可<strong>节省大量成本，提高个人生产力，缩短项目进度并提高工作质量</strong>。</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><ul><li>在400毫秒内提供系统反馈，可以吸引用户注意力并提高生产率。</li><li>利用可感知性能来缩短响应时间并减少用户的等待感。</li><li>动画是在后台进行加载或处理时以视觉方式吸引人们的一种方式。</li><li>进度条有助于使用户容忍等待时间，无论其准确性如何。</li><li>有目的地增加流程的延迟实际上可以增加其感知的价值并灌输信任感，即使流程本身实际上花费的时间要少得多。</li></ul><p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;UX设计原则：多赫蒂阈值&quot;&gt;&lt;a href=&quot;#UX设计原则：多赫蒂阈值&quot; class=&quot;headerlink&quot; title=&quot;UX设计原则：多赫蒂阈值&quot;&gt;&lt;/a&gt;UX设计原则：多赫蒂阈值&lt;/h1&gt;&lt;p&gt;摘要：当计算机及其用户以一定的交互速度（&amp;lt;400毫秒）</summary>
-      
-    
-    
-    
-    
-    <category term="设计原则" scheme="https://uedsee.com/tags/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>UX设计原则：审美可用性效应</title>
-    <link href="https://uedsee.com/aesthetic/"/>
-    <id>https://uedsee.com/aesthetic/</id>
-    <published>2020-03-26T21:28:00.000Z</published>
-    <updated>2021-03-29T02:51:41.411Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="UX设计原则：审美可用性效应"><a href="#UX设计原则：审美可用性效应" class="headerlink" title="UX设计原则：审美可用性效应"></a>UX设计原则：审美可用性效应</h1><p>摘要：用户通常将美观的设计视为更实用的设计。</p><p>关键词：审美，可用性，法则，用户体验设计，UX设计</p><p>用户通常将美观的设计视为更实用的设计。</p><h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>审美-可用性效应最早于1995年在人机交互领域进行研究。日立设计中心的研究员Masaaki Kurosu和Kaori Kashimura测试了26种ATM UI的变体，要求252名研究参与者对每种设计的易用性以及美学吸引力进行评分。Kurosu和Kashimura得出结论，即使尝试评估系统的基本功能，用户也会受到任何给定界面美观度的强烈影响。</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><p>1、美观的设计会在人们的大脑中产生积极的反响，并使他们相信该设计实际上能更好地发挥作用。</p><p>2、当产品或服务的设计在美学上令人愉悦时，人们会容忍较小的可用性问题。</p><p>3、视觉上令人愉悦的设计可以掩盖可用性问题，并防止在可用性测试期间发现问题。</p><h1 id="案例"><a href="#案例" class="headerlink" title="案例"></a>案例</h1><p><img src="images/202103273.png" alt="image" loading="lazy"></p><p>苹果公司的成功是关注美学竞争优势的典范。</p><p><img src="images/202103274.jpg" alt="image" loading="lazy"></p><p>咨询公司Arcadis在网站的许多页面上使用大背景照片。在可用性测试中，一位参与者对该站点做出了积极的回应：“首先，进入该网页，我看到了这张美丽而多彩的图像。” 在努力完成几项任务后，参与者修改了对相同设计细节的看法：“第一次我觉得图片很棒，但是第二次就有点烦人。”</p><h1 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h1><p>美观的界面值得投资。吸引用户的视觉设计具有使您的网站看起来井井有条，设计合理且专业的副作用。用户更可能希望尝试一个视觉上吸引人的网站，并且对小问题更耐心。</p><p>但是，当美学用于支持和增强网站的内容和功能时，这种效果最为明显。此外，这种影响通常会影响研究过程中的用户评论。与往常一样，倾听用户的意见，但首先要考虑到他们的所作所为。</p><p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;UX设计原则：审美可用性效应&quot;&gt;&lt;a href=&quot;#UX设计原则：审美可用性效应&quot; class=&quot;headerlink&quot; title=&quot;UX设计原则：审美可用性效应&quot;&gt;&lt;/a&gt;UX设计原则：审美可用性效应&lt;/h1&gt;&lt;p&gt;摘要：用户通常将美观的设计视为更实用的设计。</summary>
       
     
     
