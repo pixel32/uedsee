@@ -6,7 +6,7 @@
   <link href="https://uedsee.com/atom.xml" rel="self"/>
   
   <link href="https://uedsee.com/"/>
-  <updated>2021-05-25T08:53:14.646Z</updated>
+  <updated>2021-05-27T00:52:52.580Z</updated>
   <id>https://uedsee.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>UX设计原则：蔡加尼克效应</title>
+    <link href="https://uedsee.com/zeigarnik-effect/"/>
+    <id>https://uedsee.com/zeigarnik-effect/</id>
+    <published>2021-05-27T18:26:39.000Z</published>
+    <updated>2021-05-27T00:52:52.580Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="UX设计原则：蔡加尼克效应效应"><a href="#UX设计原则：蔡加尼克效应效应" class="headerlink" title="UX设计原则：蔡加尼克效应效应"></a>UX设计原则：蔡加尼克效应效应</h1><p>摘要：相较于已经完成的工作，人们比较容易记得未完成的，或是被打断的工作。</p><p>关键词：UX设计，冯·雷斯托夫效应</p><h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>蔡加尼克效应（Zeigarnik effect），也称为蔡氏效应，是心理学名词，得名于苏联心理学家布卢玛·蔡加尼克。相较于已经完成的工作，人们比较容易记得未完成的，或是被打断的工作。</p><p>在格式塔学派中，也用蔡氏效应来陈述格式塔现象，而且不只是一种概念上的效应，在认知上也有类似的情形。</p><p>蔡加尼克效应与初恋常常连在一起，人们在青春期恋爱时大多都是纯洁而美好的，并且都是怀着与对方天长地久的心态。然而，初恋往往都是稍纵即逝。根据蔡加尼克效应，人们比较容易记得未完成的事情，因此初恋都是留给自己的印象最深刻。</p><h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>布卢玛·蔡加尼克（俄语：Блюма Вульфовна Зейгарник，英语：Bluma Wulfovna Zeigarnik；1901年11月9日－1988年2月24日），是苏联的心理学家和精神病专家。她发现了蔡加尼克效应，并且创立了实验心理学（experimental psychology）这一独立的学科。</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><ul><li>通过提供其他内容的清晰指示使内容易于被用户发现。</li><li>提供明确的进度指示，激励用户完成任务。</li></ul><p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;UX设计原则：蔡加尼克效应效应&quot;&gt;&lt;a href=&quot;#UX设计原则：蔡加尼克效应效应&quot; class=&quot;headerlink&quot; title=&quot;UX设计原则：蔡加尼克效应效应&quot;&gt;&lt;/a&gt;UX设计原则：蔡加尼克效应效应&lt;/h1&gt;&lt;p&gt;摘要：相较于已经完成的工作，人们比较</summary>
+      
+    
+    
+    
+    
+    <category term="设计原则" scheme="https://uedsee.com/tags/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/"/>
+    
+  </entry>
   
   <entry>
     <title>UX设计原则：冯·莱斯托夫效应</title>
@@ -429,29 +451,6 @@
       
     <summary type="html">&lt;h1 id=&quot;UX设计原则：希克定律&quot;&gt;&lt;a href=&quot;#UX设计原则：希克定律&quot; class=&quot;headerlink&quot; title=&quot;UX设计原则：希克定律&quot;&gt;&lt;/a&gt;UX设计原则：希克定律&lt;/h1&gt;&lt;p&gt;摘要：决策所需的时间随着选择的数量和复杂性而增加。&lt;/p&gt;
 &lt;p&gt;关</summary>
-      
-    
-    
-    
-    
-    <category term="设计原则" scheme="https://uedsee.com/tags/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>UX设计原则：目标梯度效应</title>
-    <link href="https://uedsee.com/Goal-Gradient/"/>
-    <id>https://uedsee.com/Goal-Gradient/</id>
-    <published>2021-03-31T13:20:39.000Z</published>
-    <updated>2021-03-31T05:31:51.224Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="目标梯度效应"><a href="#目标梯度效应" class="headerlink" title="目标梯度效应"></a>目标梯度效应</h1><p>摘要：接近目标的趋势随目标的接近而增加。</p><p>关键词：UX设计，原则，菲茨定律，目标梯度效应</p><p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p><h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>目标梯度假说最初由行为主义者克拉克·赫尔（Clark Hull）于1932年提出：接近目标的趋势随目标的接近而增加。</p><p>在检验该假设的经典实验中，赫尔（Hull，1934）发现，在一条直线小巷中的老鼠从起始箱进入食物的过程中，其奔跑速度逐渐加快。尽管已经对动物进行了目标梯度假说的广泛研究（例如，安德森1933；布朗1948；综述，请参见Heilizer 1977），但其对人类行为和决策的影响仍未得到充分研究。</p><p>此外，这个问题对于奖励计划（以下简称RP）和其他类型的激励系统（例如Deighton 2000； Hsee，Yu和Zhang 2003； Kivetz 2003； Lal和Bell 2003）中的跨期消费者行为具有重要的理论和实践意义。 ）。</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><ul><li>1、提供任务进度将有助于用户更有动力去完成任务。</li><li>2、用户离目标越近，完成任务的速度就越快。</li><li>3、可以直观地表示进度和任务完成情况（例如进度条）来增强动力。</li></ul><h1 id="案例"><a href="#案例" class="headerlink" title="案例"></a>案例</h1><p><img src="images/20210331.gif" alt="Uber" loading="lazy"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;目标梯度效应&quot;&gt;&lt;a href=&quot;#目标梯度效应&quot; class=&quot;headerlink&quot; title=&quot;目标梯度效应&quot;&gt;&lt;/a&gt;目标梯度效应&lt;/h1&gt;&lt;p&gt;摘要：接近目标的趋势随目标的接近而增加。&lt;/p&gt;
-&lt;p&gt;关键词：UX设计，原则，菲茨定律，目标梯度效应&lt;/p</summary>
       
     
     
