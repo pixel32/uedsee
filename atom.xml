@@ -6,7 +6,7 @@
   <link href="https://uedsee.com/atom.xml" rel="self"/>
   
   <link href="https://uedsee.com/"/>
-  <updated>2021-07-16T23:41:23.101Z</updated>
+  <updated>2021-11-26T03:09:40.245Z</updated>
   <id>https://uedsee.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>IBM人工智能信任设计原则</title>
+    <link href="https://uedsee.com/IBM-AIdesign/"/>
+    <id>https://uedsee.com/IBM-AIdesign/</id>
+    <published>2021-11-26T11:09:39.000Z</published>
+    <updated>2021-11-26T03:09:40.245Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="IBM人工智能信任设计原则"><a href="#IBM人工智能信任设计原则" class="headerlink" title="IBM人工智能信任设计原则"></a>IBM人工智能信任设计原则</h1><p>摘要：在数据和人工智能 (AI) 的世界中，一切都归结为设计我们的用户可以信任的产品，以帮助他们做出那些重要的决定。</p><p>关键词：IBM，人工智能，信任，设计原则</p><h1 id="可解释性"><a href="#可解释性" class="headerlink" title="可解释性"></a>可解释性</h1><p>在 IBM，我们相信好的设计不会牺牲透明度。在为 AI 设计时，永远不应该隐藏决策过程，用户应该始终意识到他们正在使用 AI。为此，需要将可解释性引入到每一次 AI 体验中，以便用户理解 AI 做出的结论和建议。</p><p>我们制定了一套与 AI 设计相关的道德准则，称为 AI日常道德准则，其中概述了将可解释性引入 AI 体验的基本方法。</p><ol><li><strong>允许提问。</strong>用户应该能够问为什么人工智能要持续做它正在做的事情。这应该在用户界面中清晰明确。</li><li><strong>决策过程必须是可审查的</strong>，尤其是当 AI 处理高度敏感的个人信息数据时，例如个人身份信息、受保护的健康信息和/或生物识别数据。</li><li>当人工智能帮助用户做出任何高度敏感的决定时，<strong>人工智能必须能够向他们提供对推荐、使用的数据和推荐背后的推理的充分解释。</strong></li><li><strong>团队应该可以访问 AI 决策过程的记录，</strong>并能够验证这些决策过程。</li></ol><h1 id="公平"><a href="#公平" class="headerlink" title="公平"></a>公平</h1><p>人类天生就有偏见，所以很可能将偏见嵌入到我们创建的AI系统中。我们有责任通过代表不同人群的持续研究和数据收集来最大程度地减少算法偏差。在将 AI 注入产品和服务时，公平应该成为标准做法。这意味着无论何时涉及敏感数据，都应该最大限度地减少偏见。</p><h1 id="声音和语气"><a href="#声音和语气" class="headerlink" title="声音和语气"></a>声音和语气</h1><p>在与用户建立信任方面，在体验中使用合适的语言大有帮助。我们发现最好简洁明了，以价值为导向，并直截了当。同样重要的是，不要将 AI 拟人化，因为……它不是一个人。密切关注与用户交互时使用的语言。例如，与其说“我能帮你什么？”，不如说“你接下来需要什么帮助？”</p><h1 id="一致性"><a href="#一致性" class="headerlink" title="一致性"></a>一致性</h1><p>当我们使用 AI 进行设计时，我们应该有意识地设计从产品到产品共同元素的一致体验。为此，可以定义和利用 AI 设计模式。这种一致的外观确保用户每次打开具有 AI 功能的产品时不必重新学习新语言。</p><h1 id="可预测性"><a href="#可预测性" class="headerlink" title="可预测性"></a>可预测性</h1><p>可预测性是通过一致性建立的。用户将逐渐习惯于与他们一起工作的 AI。最终，公开强调这些经历的需要将会减少，因为他们将开始了解人工智能的可能性和局限性。当迭代AI体验时，请始终考虑未来以及用户对 AI 的理解和舒适度将如何随着时间的推移而发展。</p><h1 id="可学习性"><a href="#可学习性" class="headerlink" title="可学习性"></a>可学习性</h1><p>为了不断教育用户并在他们的 AI 之旅中与他们会面，我们建议依靠渐进式披露的原则。作为设计师，我们的工作是考虑用户需求并在他们需要时提供相关的指导或内容。我们发现大多数用户渴望对正在发生的事情有一个高层次的了解，但并非所有人都想深入研究 AI 的机制。从产品内指南到专家级文档，请务必考虑用户可能需要深入研究的时刻以及复杂性可能过高的时刻。</p><p>完。</p><p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;IBM人工智能信任设计原则&quot;&gt;&lt;a href=&quot;#IBM人工智能信任设计原则&quot; class=&quot;headerlink&quot; title=&quot;IBM人工智能信任设计原则&quot;&gt;&lt;/a&gt;IBM人工智能信任设计原则&lt;/h1&gt;&lt;p&gt;摘要：在数据和人工智能 (AI) 的世界中，一切都归</summary>
+      
+    
+    
+    
+    
+    <category term="设计原则" scheme="https://uedsee.com/tags/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/"/>
+    
+  </entry>
   
   <entry>
     <title>爱彼迎的故事</title>
@@ -155,6 +177,28 @@
     <title>UX设计原则：蔡加尼克效应</title>
     <link href="https://uedsee.com/zeigarnik-effect/"/>
     <id>https://uedsee.com/zeigarnik-effect/</id>
+    <published>2021-05-27T18:26:39.000Z</published>
+    <updated>2021-06-16T00:59:09.985Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="UX设计原则：蔡加尼克效应"><a href="#UX设计原则：蔡加尼克效应" class="headerlink" title="UX设计原则：蔡加尼克效应"></a>UX设计原则：蔡加尼克效应</h1><p>摘要：相较于已经完成的工作，人们比较容易记得未完成的，或是被打断的工作。</p><p>关键词：UX设计，蔡加尼克效应</p><h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>蔡加尼克效应（Zeigarnik effect），也称为蔡氏效应，是心理学名词，得名于苏联心理学家布卢玛·蔡加尼克。相较于已经完成的工作，人们比较容易记得未完成的，或是被打断的工作。</p><p>在格式塔学派中，也用蔡氏效应来陈述格式塔现象，而且不只是一种概念上的效应，在认知上也有类似的情形。</p><p>蔡加尼克效应与初恋常常连在一起，人们在青春期恋爱时大多都是纯洁而美好的，并且都是怀着与对方天长地久的心态。然而，初恋往往都是稍纵即逝。根据蔡加尼克效应，人们比较容易记得未完成的事情，因此初恋都是留给自己的印象最深刻。</p><h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>布卢玛·蔡加尼克（俄语：Блюма Вульфовна Зейгарник，英语：Bluma Wulfovna Zeigarnik；1901年11月9日－1988年2月24日），是苏联的心理学家和精神病专家。她发现了蔡加尼克效应，并且创立了实验心理学（experimental psychology）这一独立的学科。</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><ul><li>通过提供其他内容的清晰指示使内容易于被用户发现。</li><li>提供明确的进度指示，激励用户完成任务。</li></ul><p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;UX设计原则：蔡加尼克效应&quot;&gt;&lt;a href=&quot;#UX设计原则：蔡加尼克效应&quot; class=&quot;headerlink&quot; title=&quot;UX设计原则：蔡加尼克效应&quot;&gt;&lt;/a&gt;UX设计原则：蔡加尼克效应&lt;/h1&gt;&lt;p&gt;摘要：相较于已经完成的工作，人们比较容易记得未完成的</summary>
+      
+    
+    
+    
+    
+    <category term="设计原则" scheme="https://uedsee.com/tags/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>UX设计原则：蔡加尼克效应</title>
+    <link href="https://uedsee.com/zeigarnik-effect%E6%8B%B7%E8%B2%9D/"/>
+    <id>https://uedsee.com/zeigarnik-effect%E6%8B%B7%E8%B2%9D/</id>
     <published>2021-05-27T18:26:39.000Z</published>
     <updated>2021-06-16T00:59:09.985Z</updated>
     
@@ -413,50 +457,6 @@
     
     
     <category term="UX设计" scheme="https://uedsee.com/tags/UX%E8%AE%BE%E8%AE%A1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>UX设计原则：连续性原则</title>
-    <link href="https://uedsee.com/law-of-uniform-connectedness/"/>
-    <id>https://uedsee.com/law-of-uniform-connectedness/</id>
-    <published>2021-04-21T22:26:39.000Z</published>
-    <updated>2021-04-23T02:54:50.949Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="UX设计原则：连续性原则"><a href="#UX设计原则：连续性原则" class="headerlink" title="UX设计原则：连续性原则"></a>UX设计原则：连续性原则</h1><p>摘要：与没有连接的元素相比，在视觉上有连接的元素被认为更相关。</p><p>关键词：UX设计，连续性原则，心理学</p><p><img src="images/20210422.gif" alt="连续性非常简单：在一组元素周围画一个方框，就表明它们是相关的。或者，可以绘制连接线（或箭头或其他有形的连接），以达到相同的效果。例如：" loading="lazy"></p><h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>连续性原则：与没有连接的元素相比，在视觉上有连接的元素被认为更相关。</p><h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>分组原理（或格式塔定律）是心理学上的一组原则，由格式塔心理学家首先提出，以解释人类自然将物体视为有组织的模式和物体这一观点，即众所周知的原理。</p><p>格式塔心理学家认为，存在这些原理是因为头脑具有一种固有的倾向，可以根据某些规则来感知刺激中的模式。这些原则分为五类：接近度，相似度，连续性，封闭性和连通性。</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><ul><li>具有类似性质的分组功能，可以通过颜色，线条，框架或其他形状在视觉上进行连接。</li><li>可以使用从一个元素到下一个元素的有形连接参考（线，箭头等）来创建可视连接。</li><li>使用统一的连接性来显示上下文或强调相似项目之间的关系。</li></ul><p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;UX设计原则：连续性原则&quot;&gt;&lt;a href=&quot;#UX设计原则：连续性原则&quot; class=&quot;headerlink&quot; title=&quot;UX设计原则：连续性原则&quot;&gt;&lt;/a&gt;UX设计原则：连续性原则&lt;/h1&gt;&lt;p&gt;摘要：与没有连接的元素相比，在视觉上有连接的元素被认为更相关</summary>
-      
-    
-    
-    
-    
-    <category term="设计原则" scheme="https://uedsee.com/tags/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>UX设计原则：相似原则</title>
-    <link href="https://uedsee.com/law-of-similarity/"/>
-    <id>https://uedsee.com/law-of-similarity/</id>
-    <published>2021-04-18T22:26:39.000Z</published>
-    <updated>2021-04-23T02:52:29.836Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="UX设计原则：相似原则"><a href="#UX设计原则：相似原则" class="headerlink" title="UX设计原则：相似原则"></a>UX设计原则：相似原则</h1><p>摘要：人们会以最简单的形式感知并解释模糊或复杂的图像，因为这种解释只需要付出最少的认知努力。</p><p>关键词：UX设计，相似原则，心理学</p><p><img src="images/20210418.png" alt="颜色是很强的相似性特征，可以将不同类型的元素组合在一起。在这里，尽管形状是柱状排列，但蓝色仍会产生行的感觉。" loading="lazy"></p><h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>相似原则：人眼往往将设计中的相似元素视为同一分组，即使这些元素是分开的。</p><h1 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h1><p>相似原则（或格式塔定律）是心理学中的一组原则，由格式塔心理学家首先提出，以解释人类自然地将物体视为有组织的模式和物体这一原则。</p><p>格式塔心理学家认为，存在这些原理是因为头脑具有一种固有的倾向，可以根据某些规则来感知刺激中的模式。</p><p>这些原则分为五类：接近度，相似度，连续性，封闭性和连通性。</p><h1 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h1><p><img src="images/202004182.png" alt="即使在不同形状的随机图案中使用颜色，颜色也继续充当清晰的相似特征，从而创造出对分组的感知。" loading="lazy"></p><ul><li>视觉上相似的元素将被视为同一分组。</li><li>颜色，形状，大小，方向和移动可以表明元素属于同一组，并且可能具有相同的含义或功能。</li><li>确保链接和导航系统在视觉上与普通文本元素有所区别。</li></ul><p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;UX设计原则：相似原则&quot;&gt;&lt;a href=&quot;#UX设计原则：相似原则&quot; class=&quot;headerlink&quot; title=&quot;UX设计原则：相似原则&quot;&gt;&lt;/a&gt;UX设计原则：相似原则&lt;/h1&gt;&lt;p&gt;摘要：人们会以最简单的形式感知并解释模糊或复杂的图像，因为这种解释只</summary>
-      
-    
-    
-    
-    
-    <category term="设计原则" scheme="https://uedsee.com/tags/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/"/>
     
   </entry>
   

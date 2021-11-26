@@ -23,17 +23,23 @@
     var NexT = window.NexT || {};
     var CONFIG = {"hostname":"uedsee.com","root":"/","images":"/images","scheme":"Gemini","version":"8.2.2","exturl":true,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":true,"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":true,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":true,"nav":null},"motion":{"enable":true,"async":true,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.json","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}};
   </script>
-<meta property="og:type" content="website">
-<meta property="og:title" content="UED观察">
-<meta property="og:url" content="https://uedsee.com/archives/2021/07/index.html">
+<meta name="description" content="IBM人工智能信任设计原则摘要：在数据和人工智能 (AI) 的世界中，一切都归结为设计我们的用户可以信任的产品，以帮助他们做出那些重要的决定。 关键词：IBM，人工智能，信任，设计原则 可解释性在 IBM，我们相信好的设计不会牺牲透明度。在为 AI 设计时，永远不应该隐藏决策过程，用户应该始终意识到他们正在使用 AI。为此，需要将可解释性引入到每一次 AI 体验中，以便用户理解 AI 做出的结论和">
+<meta property="og:type" content="article">
+<meta property="og:title" content="IBM人工智能信任设计原则">
+<meta property="og:url" content="https://uedsee.com/IBM-AIdesign/index.html">
 <meta property="og:site_name" content="UED观察">
+<meta property="og:description" content="IBM人工智能信任设计原则摘要：在数据和人工智能 (AI) 的世界中，一切都归结为设计我们的用户可以信任的产品，以帮助他们做出那些重要的决定。 关键词：IBM，人工智能，信任，设计原则 可解释性在 IBM，我们相信好的设计不会牺牲透明度。在为 AI 设计时，永远不应该隐藏决策过程，用户应该始终意识到他们正在使用 AI。为此，需要将可解释性引入到每一次 AI 体验中，以便用户理解 AI 做出的结论和">
 <meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://uedsee.com/IBM-AIdesign/images/QRcode.png">
+<meta property="article:published_time" content="2021-11-26T11:09:39.000Z">
+<meta property="article:modified_time" content="2021-11-26T03:09:40.245Z">
 <meta property="article:author" content="John Doe">
-<meta property="article:tag" content="聚焦用户体验设计">
+<meta property="article:tag" content="设计原则">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://uedsee.com/IBM-AIdesign/images/QRcode.png">
 
 
-<link rel="canonical" href="https://uedsee.com/archives/2021/07/">
+<link rel="canonical" href="https://uedsee.com/IBM-AIdesign/">
 
 
 <script data-pjax class="page-configurations">
@@ -41,11 +47,11 @@
   CONFIG.page = {
     sidebar: "",
     isHome : false,
-    isPost : false,
+    isPost : true,
     lang   : 'zh-CN'
   };
 </script>
-<title>归档 | UED观察</title>
+<title>IBM人工智能信任设计原则 | UED观察</title>
   
 
 
@@ -170,7 +176,7 @@
 
   <aside class="sidebar">
 
-    <div class="sidebar-inner sidebar-overview-active">
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
       <ul class="sidebar-nav">
         <li class="sidebar-nav-toc">
           文章目录
@@ -183,6 +189,7 @@
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#IBM%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BF%A1%E4%BB%BB%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99"><span class="nav-number">1.</span> <span class="nav-text">IBM人工智能信任设计原则</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%8F%AF%E8%A7%A3%E9%87%8A%E6%80%A7"><span class="nav-number">2.</span> <span class="nav-text">可解释性</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%85%AC%E5%B9%B3"><span class="nav-number">3.</span> <span class="nav-text">公平</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%A3%B0%E9%9F%B3%E5%92%8C%E8%AF%AD%E6%B0%94"><span class="nav-number">4.</span> <span class="nav-text">声音和语气</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%B8%80%E8%87%B4%E6%80%A7"><span class="nav-number">5.</span> <span class="nav-text">一致性</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%8F%AF%E9%A2%84%E6%B5%8B%E6%80%A7"><span class="nav-number">6.</span> <span class="nav-text">可预测性</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%8F%AF%E5%AD%A6%E4%B9%A0%E6%80%A7"><span class="nav-number">7.</span> <span class="nav-text">可学习性</span></a></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -250,51 +257,122 @@
 </noscript>
 
 
-    <div class="main-inner archive posts-collapse">
+    <div class="main-inner post posts-expand">
 
 
   
+
+
+<div class="post-block">
   
   
-  <div class="post-block">
-    <div class="post-content">
-      <div class="collection-title">
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://uedsee.com/IBM-AIdesign/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/logo.png">
+      <meta itemprop="name" content="三二">
+      <meta itemprop="description" content="主编">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="UED观察">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          IBM人工智能信任设计原则
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2021-11-26 11:09:39" itemprop="dateCreated datePublished" datetime="2021-11-26T11:09:39Z">2021-11-26</time>
+    </span>
+
+  
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="far fa-comment"></i>
+      </span>
+      <span class="post-meta-item-text">评论：</span>
+    
+    <a title="disqus" href="/IBM-AIdesign/#disqus_thread" itemprop="discussionUrl">
+      <span class="post-comments-count disqus-comment-count" data-disqus-identifier="IBM-AIdesign/" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <h1 id="IBM人工智能信任设计原则"><a href="#IBM人工智能信任设计原则" class="headerlink" title="IBM人工智能信任设计原则"></a>IBM人工智能信任设计原则</h1><p>摘要：在数据和人工智能 (AI) 的世界中，一切都归结为设计我们的用户可以信任的产品，以帮助他们做出那些重要的决定。</p>
+<p>关键词：IBM，人工智能，信任，设计原则</p>
+<h1 id="可解释性"><a href="#可解释性" class="headerlink" title="可解释性"></a>可解释性</h1><p>在 IBM，我们相信好的设计不会牺牲透明度。在为 AI 设计时，永远不应该隐藏决策过程，用户应该始终意识到他们正在使用 AI。为此，需要将可解释性引入到每一次 AI 体验中，以便用户理解 AI 做出的结论和建议。</p>
+<p>我们制定了一套与 AI 设计相关的道德准则，称为 AI日常道德准则，其中概述了将可解释性引入 AI 体验的基本方法。</p>
+<ol>
+<li><strong>允许提问。</strong>用户应该能够问为什么人工智能要持续做它正在做的事情。这应该在用户界面中清晰明确。</li>
+<li><strong>决策过程必须是可审查的</strong>，尤其是当 AI 处理高度敏感的个人信息数据时，例如个人身份信息、受保护的健康信息和/或生物识别数据。</li>
+<li>当人工智能帮助用户做出任何高度敏感的决定时，<strong>人工智能必须能够向他们提供对推荐、使用的数据和推荐背后的推理的充分解释。</strong></li>
+<li><strong>团队应该可以访问 AI 决策过程的记录，</strong>并能够验证这些决策过程。</li>
+</ol>
+<h1 id="公平"><a href="#公平" class="headerlink" title="公平"></a>公平</h1><p>人类天生就有偏见，所以很可能将偏见嵌入到我们创建的AI系统中。我们有责任通过代表不同人群的持续研究和数据收集来最大程度地减少算法偏差。在将 AI 注入产品和服务时，公平应该成为标准做法。这意味着无论何时涉及敏感数据，都应该最大限度地减少偏见。</p>
+<h1 id="声音和语气"><a href="#声音和语气" class="headerlink" title="声音和语气"></a>声音和语气</h1><p>在与用户建立信任方面，在体验中使用合适的语言大有帮助。我们发现最好简洁明了，以价值为导向，并直截了当。同样重要的是，不要将 AI 拟人化，因为……它不是一个人。密切关注与用户交互时使用的语言。例如，与其说“我能帮你什么？”，不如说“你接下来需要什么帮助？”</p>
+<h1 id="一致性"><a href="#一致性" class="headerlink" title="一致性"></a>一致性</h1><p>当我们使用 AI 进行设计时，我们应该有意识地设计从产品到产品共同元素的一致体验。为此，可以定义和利用 AI 设计模式。这种一致的外观确保用户每次打开具有 AI 功能的产品时不必重新学习新语言。</p>
+<h1 id="可预测性"><a href="#可预测性" class="headerlink" title="可预测性"></a>可预测性</h1><p>可预测性是通过一致性建立的。用户将逐渐习惯于与他们一起工作的 AI。最终，公开强调这些经历的需要将会减少，因为他们将开始了解人工智能的可能性和局限性。当迭代AI体验时，请始终考虑未来以及用户对 AI 的理解和舒适度将如何随着时间的推移而发展。</p>
+<h1 id="可学习性"><a href="#可学习性" class="headerlink" title="可学习性"></a>可学习性</h1><p>为了不断教育用户并在他们的 AI 之旅中与他们会面，我们建议依靠渐进式披露的原则。作为设计师，我们的工作是考虑用户需求并在他们需要时提供相关的指导或内容。我们发现大多数用户渴望对正在发生的事情有一个高层次的了解，但并非所有人都想深入研究 AI 的机制。从产品内指南到专家级文档，请务必考虑用户可能需要深入研究的时刻以及复杂性可能过高的时刻。</p>
+<p>完。</p>
+<p><img src="images/QRcode.png" alt="微信公众号：UED观察" loading="lazy"></p>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/" rel="tag"># 设计原则</a>
+          </div>
+
         
-        <span class="collection-header">还行! 目前共计 33 篇日志。 继续努力。</span>
-      </div>
 
-      
-    <div class="collection-year">
-      <span class="collection-header">2021</span>
-    </div>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-      <div class="post-meta-container">
-        <time itemprop="dateCreated"
-              datetime="2021-07-17T07:39:39Z"
-              content="2021-07-17">
-          07-17
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/airbnb/" itemprop="url">
-            <span itemprop="name">爱彼迎的故事</span>
-          </a>
-      </div>
-
-      
-    </header>
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/airbnb/" rel="prev" title="爱彼迎的故事">
+                  <i class="fa fa-chevron-left"></i> 爱彼迎的故事
+                </a>
+            </div>
+            <div class="post-nav-item">
+            </div>
+          </div>
+    </footer>
   </article>
+</div>
 
 
-    </div>
+
+
+
+
+    
+  <div class="comments" id="disqus_thread">
+    <noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
   </div>
   
-  
-  
-
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -419,6 +497,26 @@ if (document.querySelectorAll('.mermaid').length) {
   }
   // defer loading until the whole page loading is completed
   window.addEventListener('load', loadCount, false);
+</script>
+<script>
+  var disqus_config = function() {
+    this.page.url = "https://uedsee.com/IBM-AIdesign/";
+    this.page.identifier = "IBM-AIdesign/";
+    this.page.title = "IBM人工智能信任设计原则";
+    };
+  NexT.utils.loadComments('#disqus_thread', () => {
+    if (window.DISQUS) {
+      DISQUS.reset({
+        reload: true,
+        config: disqus_config
+      });
+    } else {
+      var d = document, s = d.createElement('script');
+      s.src = 'https://uedsee.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', '' + +new Date());
+      (d.head || d.body).appendChild(s);
+    }
+  });
 </script>
 
     </div>
